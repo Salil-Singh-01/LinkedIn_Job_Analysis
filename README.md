@@ -146,11 +146,11 @@ This LinkedIn Job Market Analysis Dashboard provides an overview of current job 
 ##  Final Dashboard
 
 ![Dashboard Image](https://github.com/anjanicoder/JobDashboard/blob/e8c307e9a2e7c9fc392b01772ad8ae7c0fca3fd3/Project%20Image/main.jpg?raw=true)
-![Dashboard Image](https://github.com/anjanicoder/JobDashboard/blob/e8c307e9a2e7c9fc392b01772ad8ae7c0fca3fd3/Project%20Image/main.jpg?raw=true)
-![Dashboard Image](https://github.com/anjanicoder/JobDashboard/blob/e8c307e9a2e7c9fc392b01772ad8ae7c0fca3fd3/Project%20Image/main.jpg?raw=true)
+![Dashboard Image](https://github.com/Salil-Singh-01/LinkedIn_Job_Analysis/blob/main/Dashboard%20Images/jobs_by_level.jpg)
+![Dashboard Image](https://github.com/Salil-Singh-01/LinkedIn_Job_Analysis/blob/main/Dashboard%20Images/Jobs_by_Companies.jpg)
 
 
-Thankyou
+Thank you
 
 
 <!-- 
