@@ -1,0 +1,1000 @@
+details_id,job_ids,company_Name,designations,industry,employees_count,linkedin_followers,involvement,level,total_applicants,City,State
+1,3973300317,Wipro,Business Analyst,IT Services and IT Consulting,10001,9367083,Full-time,Full-time,195,Pune, Maharashtra
+2,3974757094,Cognizant,Process Executive - Data,IT Services and IT Consulting,10001,7473534,Full-time,Entry level,23,Pune, Maharashtra
+3,3977531665,American Express,Analyst-Data Analytics,Financial Services,10001,2222834,Full-time,Entry level,102,Gurugram, Haryana
+4,3976176383,eClerx,Analyst,Information Technology & Services,10001,321131,Full-time,Entry level,25,Pune, Maharashtra
+5,3969988271,Marsh McLennan,Speacialist - Data Analytics and Insights,Financial Services,10001,626941,Full-time,Mid-Senior level,165,Mumbai, Maharashtra
+6,3973937959,Sakshath Technologies®,Business Analyst,IT Services and IT Consulting,200,5631,Full-time,Entry level,94,Mumbai, Maharashtra
+7,3973940307,Michael Page,Tech Business Analyst,Staffing and Recruiting,10000,3668722,Full-time,Entry level,80,Gurgaon, Haryana
+8,3974265125,Infosys BPM,Process Executive,IT Services and IT Consulting,10001,1539122,Full-time,Entry level,112,Pune, Maharashtra
+9,3976167209,NetApp,"Business Data Analyst (Power BI, Tableau, Data Analytics )",Software Development,10001,684025,Full-time,Full-time,158,Bengaluru, Karnataka
+10,3978493692,Niveus Solutions,Associate - Business Analyst,IT Services and IT Consulting,1000,33742,Full-time,Entry level,0,Gurgaon, Haryana
+11,3973947304,TETRAHED INC,BI Analyst,IT Services and IT Consulting,200,13837,Full-time,Associate,112,Bengaluru, Karnataka
+12,3974478602,Masan Group,Data Analyst,Retail,10001,25961,Full-time,Associate,131,Bengaluru, Karnataka
+13,3973939578,Sakshath Technologies®,Business Analyst,IT Services and IT Consulting,200,5631,Full-time,Mid-Senior level,170,Bengaluru, Karnataka
+14,3955620798,dss+,Analyst - Knowledge Management,Business Consulting and Services,5000,106289,Full-time,Entry level,183,Mumbai, Maharashtra
+15,3975538342,Thakral One,Data Analytics,IT Services and IT Consulting,1000,20468,Full-time,Associate,123,Mumbai, Maharashtra
+16,3975656700,Quorum Software,Data Analyst and BI Developer (Hybrid Work Schedule),Software Development,5000,22146,Full-time,Entry level,116,Pune, Maharashtra
+17,3973970908,Wipro,Associate,IT Services and IT Consulting,10001,9367083,Full-time,Full-time,67,Hyderabad, Telangana
+18,3976148045,PTC,Associate QA Analyst,Software Development,10000,339371,Full-time,Full-time,181,Pune, Maharashtra
+19,3978487757,PhonePe,Business Operations Analyst,Software Development,10000,1013775,Full-time,Associate,90,Bengaluru, Karnataka
+20,3974753912,Bright Money,Data Analyst Intern,Financial Services,200,109063,Internship,Internship,130,Bengaluru, Karnataka
+21,3955936593,Tata Consultancy Services,Oracle PeopleSoft,IT Services and IT Consulting,10001,15502314,Full-time,Mid-Senior level,116,Mumbai, Maharashtra
+22,3975000430,Wipro,Executive/Senior Executive,IT Services and IT Consulting,10001,9367105,Full-time,Full-time,3,Pune, Maharashtra
+23,3973944718,TETRAHED INC,BI Analyst,IT Services and IT Consulting,200,13838,Full-time,Associate,108,Hyderabad, Telangana
+24,3973410237,Super Scholar,Technical Business Analyst,Business Consulting and Services,50,41696,Full-time,Full-time,114,Worli, Maharashtra
+25,3977851459,Bristol Myers Squibb,Business Analyst I,Pharmaceutical Manufacturing,10001,1434972,Full-time,Entry level,121,Hyderabad, Telangana
+26,3964916933,Tata Consultancy Services,Oracle Apps Technical (Walk-in-Drive),IT Services and IT Consulting,10001,15502324,Full-time,Associate,108,Mumbai, Maharashtra
+27,3958388357,Biocon,Lead QC Microbiology-Injectables,Biotechnology Research,10000,815862,Full-time,Mid-Senior level,180,Bengaluru, Karnataka
+28,3973965141,Cognizant,Business Associate,IT Services and IT Consulting,10001,7473541,Full-time,Entry level,41,Pune, Maharashtra
+29,3954294107,Citi,Analyst : Business Analytics,Financial Services,10001,4339121,Full-time,Full-time,159,Bengaluru, Karnataka
+30,3973206105,Societe Generale Global Solution Centre,Business Analyst,IT Services and IT Consulting,10000,369366,Full-time,Entry level,0,Bengaluru, Karnataka
+31,3975822581,Wipro,Associate,IT Services and IT Consulting,10001,9367118,Full-time,Entry level,0,Mumbai, Maharashtra
+32,3972992834,eClerx,Analyst,Information Technology & Services,10001,321133,Full-time,Entry level,29,Pune, Maharashtra
+33,3975119384,mCaffeine,Business Data Analyst - Special Projects,Personal Care Product Manufacturing,1000,127369,Full-time,Mid-Senior level,114,Mumbai, Maharashtra
+34,3976654887,Zeno Health,Business Analyst,Pharmaceutical Manufacturing,1000,94469,Full-time,Associate,125,Mumbai, Maharashtra
+35,3962640170,Allied Digital Services Limited,Liferay Support L2,IT Services and IT Consulting,5000,20418,Full-time,Mid-Senior level,60,Mumbai, Maharashtra
+36,3969957169,TechHost Services,Data & BI Analyst,IT Services and IT Consulting,200,15477,Full-time,Mid-Senior level,151,Pune, Maharashtra
+37,3959621538,M Intergraph Systems Pvt. Ltd.,Sr. BDE- Govt & Corporate IT Sales,IT Services and IT Consulting,500,5165,Full-time,Full-time,82,Mumbai, Maharashtra
+38,3967057633,Azilen Technologies,Technical Business Analyst,IT Services and IT Consulting,500,63957,Full-time,Mid-Senior level,176,Ahmedabad, Gujarat
+39,3973938869,Sakshath Technologies®,Business Analyst,IT Services and IT Consulting,200,5631,Full-time,Entry level,68,Mumbai, Maharashtra
+40,3969535846,Wipro,Business Analyst,IT Services and IT Consulting,10001,9367129,Full-time,Full-time,198,Hyderabad, Telangana
+41,3978515940,Deutsche Bank,Reference Data Analyst,Financial Services,10001,2474167,Full-time,Full-time,16,Bengaluru, Karnataka
+42,3965143803,Tata Consultancy Services,Customer Service Specialist,IT Services and IT Consulting,10001,15502344,Full-time,Associate,189,Mumbai, Maharashtra
+43,3973950070,TETRAHED INC,BI Analyst,IT Services and IT Consulting,200,13844,Full-time,Associate,176,Bengaluru, Karnataka
+44,3973978091,Xomic Infotech Pvt. Ltd.,Jr. Business Analyst,IT Services and IT Consulting,50,10082,On-site,Full-time,0,Ahmedabad, Gujarat
+45,3973950068,TETRAHED INC,BI Analyst,IT Services and IT Consulting,200,13846,Full-time,Associate,146,Hyderabad, Telangana
+46,3974787867,JLL Technologies,Business Systems Analyst-1,IT Services and IT Consulting,5000,59093,Full-time,Associate,2,Bengaluru East, Karnataka
+47,3974752515,S&P Global,Data Intelligence Associate I,Financial Services,10001,567320,Full-time,Full-time,13,Gurugram, Haryana
+48,3978462742,Criteo,Data Analyst- Global Client Operation Center,Advertising Services,5000,220610,Full-time,Full-time,11,Gurgaon, Haryana
+49,3978495177,ANB IT Solutions Pvt Ltd,Data Analyst - Tableau/Power BI,IT Services and IT Consulting,50,1618,Full-time,Entry level,0,Bengaluru, Karnataka
+50,3978063292,EXL,Executives,IT Services and IT Consulting,10001,963519,Full-time,Entry level,13,Pune, Maharashtra
+51,3954239716,Tech Mahindra,Solutions Architect,IT Services and IT Consulting,10001,6237870,Full-time,Mid-Senior level,187,Bengaluru, Karnataka
+52,3973314456,Cognizant,Business Associate,IT Services and IT Consulting,10001,7473551,Full-time,Entry level,41,Pune, Maharashtra
+53,3974780109,Zensar Technologies,Business Analyst,IT Services and IT Consulting,10000,865006,Full-time,Mid-Senior level,117,Bengaluru, Karnataka
+54,3970482657,Infosys,Business Analyst- Banking,IT Services and IT Consulting,10001,9050502,Full-time,Entry level,115,Pune, Maharashtra
+55,3975002302,Wipro,Technical Business Analyst,IT Services and IT Consulting,10001,9367146,Full-time,Full-time,3,Pune, Maharashtra
+56,3972310742,Kaseya,Data Analyst,Software Development,10000,147089,Full-time,Associate,162,Bengaluru, Karnataka
+57,3967126423,Cloud Odyssey,Presales Consultant,IT Services and IT Consulting,500,13383,Full-time,Full-time,175,Mumbai, Maharashtra
+58,3978511722,eClerx,Analyst,Information Technology & Services,10001,321134,Full-time,Entry level,2,Pune, Maharashtra
+59,3973971790,Infinitalent Consulting Pvt ltd,Data analytics,Outsourcing and Offshoring Consulting,1000,1390,On-site,Full-time,0,Bengaluru East, Karnataka
+60,3969920571,Unacademy,Product Analyst,E-Learning Providers,10000,1064273,Full-time,Mid-Senior level,112,Bengaluru, Karnataka
+61,3973946629,TETRAHED INC,BI Analyst,IT Services and IT Consulting,200,13849,Full-time,Associate,121,Bengaluru, Karnataka
+62,3974794044,Cognizant,Senior Associate,IT Services and IT Consulting,10001,7473556,Full-time,Entry level,6,Pune, Maharashtra
+63,3969952674,TechHost Services,Data & BI Analyst,IT Services and IT Consulting,200,15478,Full-time,Mid-Senior level,102,Gurugram, Haryana
+64,3973598038,Amazon,"Business Analyst I, ROC, Analytics, ROC",Software Development,10001,31536445,Full-time,Full-time,183,Hyderabad, Telangana
+65,3976891673,Amazon,Business Operations Analyst,Software Development,10001,31536446,Full-time,Full-time,188,Bengaluru, Karnataka
+66,3978413235,American Express,Analyst-Control Management,Financial Services,10001,2222846,Full-time,Entry level,27,Gurugram, Haryana
+67,3973305846,Tata Consultancy Services,Service Desk Analyst,IT Services and IT Consulting,10001,15502369,Full-time,Associate,194,Bengaluru, Karnataka
+68,3974790312,Cognizant,Process Executive - Data,IT Services and IT Consulting,10001,7473557,Full-time,Entry level,28,Hyderabad, Telangana
+69,3954013664,Tech Mahindra,Service Now - Immediate Joiners,IT Services and IT Consulting,10001,6237879,Full-time,Associate,113,Hyderabad, Telangana
+70,3974725994,Revature,Entry Level Software Developer,IT Services and IT Consulting,5000,278549,Full-time,Entry level,121,Hyderabad, Telangana
+71,3964994795,Marlabs Software Pvt Ltd,Infor M3 Technical lead,IT Services and IT Consulting,10001,3204,Full-time,Mid-Senior level,18,Bengaluru, Karnataka
+72,3960227308,Xebia,COE-Data Architect,IT Services and IT Consulting,10000,261736,Full-time,Full-time,109,Gurugram, Haryana
+73,3953928830,Luxoft,IT Business Analyst - Credit Risk,IT Services and IT Consulting,10001,2047278,Full-time,Associate,104,Bengaluru, Karnataka
+74,3978456957,PW (PhysicsWallah),Product Analyst,E-Learning Providers,10000,616006,Full-time,Associate,33,Noida, Uttar Pradesh
+75,3972139213,Citi,Analyst - Business Analysis,IT Services and IT Consulting,10001,6237892,Full-time,Mid-Senior level,153,Bengaluru, Karnataka
+76,3977865678,Tech Mahindra,Business Analyst,IT Services and IT Consulting,10000,185737,Full-time,Mid-Senior level,0,Mumbai, Maharashtra
+77,3972315255,Encora Inc.,Business Analyst,IT Services and IT Consulting,50,129901,Full-time,Associate,144,Bengaluru, Karnataka
+78,3972390914,TCS,Process Associate,IT Services and IT Consulting,10001,1183037,Full-time,Associate,146,Bengaluru, Karnataka
+79,3976804210,Virtusa,Data Analyst,Information Technology & Services,10001,321137,Full-time,Entry level,43,Chennai, Tamil Nadu
+80,3976907977,eClerx,Analyst,IT Services and IT Consulting,10001,2363453,Full-time,Entry level,127,Pune, Maharashtra
+81,3967430891,Accenture in India,BI Engineering Analyst,IT Services and IT Consulting,10001,3979032,Full-time,Mid-Senior level,190,Bengaluru, Karnataka
+82,3939473224,LTIMindtree,Webmethods Integration Developer,IT Services and IT Consulting,10001,635645,Full-time,Mid-Senior level,195,Bengaluru, Karnataka
+83,3973046813,ITC Infotech,Labware developer,IT Services and IT Consulting,10001,2363454,Full-time,Mid-Senior level,93,Bengaluru, Karnataka
+84,3977094943,Accenture in India,Business Analyst,Market Research,5000,238255,Full-time,Associate,154,Pune, Maharashtra
+85,3975684834,SurveyMonkey,Data Analyst,Travel Arrangements,10001,261068,Full-time,Full-time,106,Bengaluru, Karnataka
+86,3976850573,American Express Global Business Travel,BI Analyst,Software Development,200,118715,Full-time,Mid-Senior level,133,Gurgaon, Haryana
+87,3972306823,hackajob,Data Analyst,IT Services and IT Consulting,10001,15502406,Full-time,Associate,110,Hyderabad, Telangana
+88,3973915900,Tata Consultancy Services,Process Associate,IT Services and IT Consulting,200,13854,Full-time,Mid-Senior level,119,Bengaluru, Karnataka
+89,3889704009,TETRAHED INC,DATA ANALYST - Google Analytics,Financial Services,5000,120352,Full-time,Entry level,146,Gurugram, Haryana
+90,3974764082,D. E. Shaw India Private Limited,Analyst/Senior Analyst - Data Analytics,Investment Management,500,12924,Full-time,Entry level,112,Gurugram, Haryana
+91,3974782037,InCred Wealth,Research Associate,Space Research and Technology,500,219243,Full-time,Entry level,44,Mumbai, Maharashtra
+92,3973591999,Skyroot Aerospace,Business Development Associate,Software Development,10001,31536542,Full-time,Full-time,37,Hyderabad, Telangana
+93,3977028131,Amazon,"Business Analyst I, ROC, Analytics, ROC",Marketing,100,0,Internship,Internship,0,Hyderabad, Telangana
+94,3973944805,Justlog Solutions LLP,Business Analytics Internship in Pune (Hybrid),IT Services and IT Consulting,10001,9367197,Full-time,Full-time,20,Pune, Maharashtra
+95,3975900391,Wipro,Associate,IT Services and IT Consulting,200,22929,Full-time,Entry level,0,Gurugram, Haryana
+96,3931512470,LimeTray,Business Analyst in Gurgaon,IT Services and IT Consulting,5000,74883,Full-time,Mid-Senior level,116,Gurgaon, Haryana
+97,3951947733,Cyfuture,Pre-Sales - Cloud Solutions Architect,IT Services and IT Consulting,10001,854751,Full-time,Mid-Senior level,184,Noida, Uttar Pradesh
+98,3959361081,Coforge,Data Architect,Advertising Services,5000,411669,Full-time,Mid-Senior level,132,Noida, Uttar Pradesh
+99,3972993630,Epsilon India,Business System Analyst 2,Information Technology & Services,10001,321139,Full-time,Entry level,32,Bengaluru, Karnataka
+100,3973279053,eClerx,Analyst,Packaging and Containers Manufacturing,10001,9016,Full-time,Entry level,0,Pune, Maharashtra
+101,3889700474,Tetra Laval International,Analyst,Financial Services,5000,120352,Full-time,Entry level,150,Pune, Maharashtra
+102,3905200764,D. E. Shaw India Private Limited,Analyst/Senior Analyst - Data Analytics,Financial Services,5000,120352,Full-time,Entry level,139,Hyderabad, Telangana
+103,3971197154,D. E. Shaw India Private Limited,Analyst/Senior Analyst - Data Analytics,Human Resources Services,10001,265221,Full-time,Mid-Senior level,144,Bengaluru, Karnataka
+104,3937838309,Magnit,Data Analyst,Information Technology & Services,1000,22313,Full-time,Mid-Senior level,142,Bengaluru, Karnataka
+105,3977456572,SMC Squared India,Technical Lead(Full Stack),IT Services and IT Consulting,10001,963529,Full-time,Entry level,4,Bengaluru, Karnataka
+106,3961168785,EXL,Executives,IT Services and IT Consulting,10001,6237908,Full-time,Mid-Senior level,22,Pune, Maharashtra
+107,3935469950,Tech Mahindra,SFDC Vlocity Designer,Business Consulting and Services,10001,4173079,Full-time,Mid-Senior level,177,Bengaluru, Karnataka
+108,3973946627,Genpact,Senior Presales Consultant-Oracle EBS/Cloud ERP,IT Services and IT Consulting,200,13858,Full-time,Associate,169,Bengaluru, Karnataka
+109,3941326591,TETRAHED INC,BI Analyst,IT Services and IT Consulting,10001,3979041,Full-time,Mid-Senior level,197,Noida, Uttar Pradesh
+110,3973948282,LTIMindtree,Unqork Developer,IT Services and IT Consulting,200,13858,Full-time,Associate,126,Pune, Maharashtra
+111,3973374727,TETRAHED INC,BI Analyst,IT Services and IT Consulting,10001,9367219,Full-time,Full-time,44,Chennai, Tamil Nadu
+112,3963395261,Wipro,Associate,IT Services and IT Consulting,10001,6237908,Full-time,Mid-Senior level,123,Gurugram, Haryana
+113,3978409957,Tech Mahindra,Workday Consultant,IT Services and IT Consulting,10001,1539150,Full-time,Entry level,11,Bengaluru, Karnataka
+114,3977251320,Infosys BPM,Analyst Knowledge Services,Business Consulting and Services,10001,518782,Full-time,Full-time,30,Bengaluru, Karnataka
+115,3978462039,ZS,Knowledge Services Associate,Human Resources Services,50,3380,Full-time,Entry level,0,Gurgaon, Haryana
+116,3974776771,XpertReach,Operations Analyst,Business Consulting and Services,50,184439,Hybrid,Full-time,17,Gurgaon, Haryana
+117,3973943945,YO HR Consultancy,Data Scientist/Analyst-Remote,IT Services and IT Consulting,200,13859,Full-time,Associate,195,Ahmedabad, Gujarat
+118,3971145029,TETRAHED INC,BI Analyst,IT Services and IT Consulting,200,208931,Hybrid,Full-time,121,Pune, Maharashtra
+119,3962948400,ConsultBae Jobs,Data Scientist (Associate),"Technology, Information and Internet",200,132362,Full-time,Mid-Senior level,141,Bengaluru, Karnataka
+120,3972327468,Jio Platforms Limited (JPL),Lead / Staff Navigation Designer,IT Services and IT Consulting,10000,235585,Full-time,Full-time,123,Mumbai, Maharashtra
+121,3959333702,RingCentral,Data Analyst(AI-LLM),IT Services and IT Consulting,10001,15502443,Full-time,Mid-Senior level,152,Bengaluru, Karnataka
+122,3956333131,Tata Consultancy Services,Solutions Architect,IT Services and IT Consulting,10001,15502446,Full-time,Mid-Senior level,186,Hyderabad, Telangana
+123,3974891565,Tata Consultancy Services,Application Architect,Financial Services,500,131553,Full-time,Internship,178,Mumbai, Maharashtra
+124,3964491702,EarnIn,Data Science Intern,Advertising Services,10000,482148,Full-time,Associate,142,Bengaluru, Karnataka
+125,3971140475,Dentsu Creative,Senior Executive - Public Relations (BFSI),Financial Services,10001,5179633,Full-time,Full-time,5,Mumbai, Maharashtra
+126,3959341915,NTT DATA Business Solutions,Global Portfolio Manager (for Microsoft Business),Software Development,10001,33556466,Full-time,Full-time,190,Hyderabad, Telangana
+127,3976453458,JPMorganChase,Client Data Analyst,"Technology, Information and Internet",500,35947,Full-time,Full-time,62,Hyderabad, Telangana
+128,3971136998,Google,"Business Analyst, Youtube Trust and Safety",Business Consulting and Services,5000,106291,Full-time,Mid-Senior level,136,Hyderabad, Telangana
+129,3977331832,ffreedom app,Anchor - Video Creator (Telugu) - Journalism and Media,Investment Banking,5000,78194,Full-time,Mid-Senior level,99,Bengaluru, Karnataka
+130,3977229700,dss+,Analyst (Business Analyst in President’s office),Financial Services,10001,626950,Full-time,Associate,113,Mumbai, Maharashtra
+131,3899099486,Saxo Bank,Business Analyst,IT Services and IT Consulting,10001,6237934,Full-time,Mid-Senior level,36,Gurugram, Haryana
+132,3976878830,Marsh McLennan,Specialist - Data Analytics & Insights,Financial Services,10001,3080002,Full-time,Full-time,40,Mumbai, Maharashtra
+133,3939443917,Tech Mahindra,Associate Security Consultant,IT Services and IT Consulting,10001,963537,Full-time,Entry level,6,Pune, Maharashtra
+134,3974261532,Morgan Stanley,Operations Analyst - Parametric,Software Development,10000,1013794,Full-time,Associate,114,Mumbai, Maharashtra
+135,3977580479,EXL,Executives,Printing Services,5000,44519,Full-time,Entry level,78,Pune, Maharashtra
+136,3976155839,PhonePe,Decision Scientist,Software Development,200,12222,Full-time,Entry level,128,Bengaluru, Karnataka
+137,3973325374,Group Bayport,Associate Business Analyst,IT Services and IT Consulting,10001,278711,Full-time,Entry level,0,Gurugram, Haryana
+138,3973994012,Miamin Systems Inc.,Associate Software Engineer,Advertising Services,5000,315949,Full-time,Associate,191,Bengaluru, Karnataka
+139,3975829352,_VOIS,Product Owner/Business Analyst,IT Services and IT Consulting,10001,9367272,Full-time,Full-time,7,Pune, Maharashtra
+140,3978054507,Schbang,Talent Acquisition Executive,IT Services and IT Consulting,10001,278711,Full-time,Entry level,0,Mumbai, Maharashtra
+141,3973944717,Wipro,Domain Consultant,IT Services and IT Consulting,10001,241712,Full-time,Associate,169,Pune, Maharashtra
+142,3977561986,_VOIS,Data Science,Financial Services,5000,572081,Full-time,Entry level,39,Pune, Maharashtra
+143,3967620670,Datamatics,Financial Operations Business Analyst,Financial Services,200,53062,Internship,Entry level,154,Mumbai, Maharashtra
+144,3978089875,CRISIL Limited,Associate - Data Ops,Banking,10001,625589,Full-time,Associate,9,Pune, Maharashtra
+145,3971141539,Jar,Product Analyst Intern,Advertising Services,5000,3625,Full-time,Full-time,0,Bengaluru, Karnataka
+146,3977514214,NatWest Group,Customer Service & Operations Analyst,IT Services and IT Consulting,1000,28353,Full-time,Entry level,0,Gurugram, Haryana
+147,3973317510,GomezLee Marketing,ANALISTA BI,IT Services and IT Consulting,200,9928,Full-time,Mid-Senior level,0,Mumbai, Maharashtra
+148,3960242541,ATRIBS METSCON Group,Tech Analyst,Telecommunications,10001,540386,Full-time,Mid-Senior level,144,Bengaluru, Karnataka
+149,3968472075,APPWRK IT Solutions Pvt. Ltd.,Data Analyst (PL SQL ),IT Services and IT Consulting,10001,6237945,Full-time,Mid-Senior level,171,Hyderabad, Telangana
+150,3978507650,Motorola Solutions,Automation Manager,IT Services and IT Consulting,500,43489,Full-time,Associate,150,Bengaluru, Karnataka
+151,3973395909,Tech Mahindra,Build And Release Engineer,Utilities,10001,1857442,Full-time,Mid-Senior level,178,Mumbai, Maharashtra
+152,3951040810,Mitsogo,Business Development Representative,Financial Services,10001,1935694,Full-time,Full-time,99,Mumbai, Maharashtra
+153,3972353479,Adani Group,OT Security Lead,Business Consulting and Services,10001,4488634,Full-time,Full-time,109,Ahmedabad, Gujarat
+154,3977257149,BlackRock,"Analyst, Business Intelligence",IT Services and IT Consulting,50,2174,Internship,Internship,0,Gurgaon, Haryana
+155,3969917014,Boston Consulting Group (BCG),Research Associate - On Contract,IT Services and IT Consulting,10001,9050579,Full-time,Entry level,149,Bengaluru, Karnataka
+156,3974288877,Kornerstone,Technology Business Consultant Internship in Pune (Hybrid),Software Development,10001,1391871,Full-time,Full-time,58,Pune, Maharashtra
+157,3972896347,Infosys,Healthcare Business Analyst,Outsourcing and Offshoring Consulting,5000,115433,Full-time,Associate,181,Bengaluru East, Karnataka
+158,3977053443,PayPal,"Data Analyst, Credit Risk Strategy",Financial Services,10001,5179641,Full-time,Full-time,34,Bengaluru, Karnataka
+159,3974761892,Denave,Data Analyst,Financial Services,10001,2222872,Full-time,Entry level,82,Noida, Uttar Pradesh
+160,3974764883,JPMorganChase,Client Data Associate I,Media Production,10000,86048,Full-time,Mid-Senior level,0,Hyderabad, Telangana
+161,3978522863,American Express,Analyst - Risk Management,Marketing,100,0,Full-time,Entry level,0,Gurugram, Haryana
+162,3975927471,Reuters News Agency,Business Analyst - Financial Analysis & Power Bi,IT Services and IT Consulting,10001,9367297,Full-time,Full-time,15,Hyderabad, Telangana
+163,3977315551,Radical Technologies,Job Opening For Business Analyst ;Freshers / Experienced (0-3yrs)/A bachelors degree in business or related field or a,IT Services and IT Consulting,10001,963541,Full-time,Entry level,5,Pune, Maharashtra
+164,3973947390,Wipro,Cyber Security Analyst,Travel Arrangements,10001,261072,Full-time,Full-time,17,Pune, Maharashtra
+165,3975932038,EXL,Executives,Automation Machinery Manufacturing,10001,962500,Full-time,Mid-Senior level,15,Pune, Maharashtra
+166,3974290685,American Express Global Business Travel,MI Analyst,IT Services and IT Consulting,10001,6237955,Full-time,Entry level,107,Gurgaon, Haryana
+167,3975705335,Rockwell Automation,Data Governance Analyst,IT Services and IT Consulting,10001,9367300,Full-time,Full-time,0,Pune, Maharashtra
+168,3973947631,Tech Mahindra,Associate Software Engineer,IT Services and IT Consulting,5000,533230,Full-time,Full-time,184,Hyderabad, Telangana
+169,3974791672,Wipro,System Engineer,Business Consulting and Services,10001,4173122,Full-time,Associate,24,Mumbai, Maharashtra
+170,3971955160,Programming.com,Azure Devops Engineer,Internet Publishing,500,42142,Full-time,Mid-Senior level,41,Bengaluru, Karnataka
+171,3972942253,Genpact,Business Analyst- Project Management-ANA013274,Entertainment Providers,200,13274,Full-time,Entry level,0,Bengaluru, Karnataka
+172,3971690755,SquadStack,Data Analytics Consultant,IT Services and IT Consulting,200,70025,Full-time,Mid-Senior level,109,Noida, Uttar Pradesh
+173,3949355449,STAGE - OTT for India's regional cultures,Product Analyst,Telecommunications,5000,236575,Full-time,Associate,129,Noida, Uttar Pradesh
+174,3954035350,"Georgia IT, Inc.",PowerBI Developer,Software Development,500,68482,Contract,Mid-Senior level,172,Bengaluru, Karnataka
+175,3976126595,Tejas Networks,Layer 3 Testing (IP/MPLS) - Senior Engineer & Lead Engineer,Data Infrastructure and Analytics,200,6295,Full-time,Mid-Senior level,0,Bengaluru, Karnataka
+176,3965422615,Fusemachines,Data Analyst,Financial Services,10001,2474200,Full-time,Full-time,23,Pune, Maharashtra
+177,3975251659,Loyalytics AI,Data Analyst,IT Services and IT Consulting,200,30566,Hybrid,Full-time,0,Bengaluru East, Karnataka
+178,3951142808,Deutsche Bank,Analytics – Data Scientist,Telecommunications,5000,131238,Full-time,Mid-Senior level,35,Mumbai, Maharashtra
+179,3977028212,Kiash Solutions LLP,PowerBI and SQL,IT Services and IT Consulting,10001,1409864,Full-time,Mid-Senior level,124,Mumbai, Maharashtra
+180,3973395481,Tata Tele Business Services,Product Sales Specialist,Utilities,10001,947747,Full-time,Mid-Senior level,111,Pune, Maharashtra
+181,3976180797,Hexaware Technologies,Power BI Developer,IT Services and IT Consulting,5000,276223,Full-time,Associate,169,Bengaluru, Karnataka
+182,3976812078,Hitachi Energy,Data Analyst,IT Services and IT Consulting,50,4606,Hybrid,Full-time,18,Chennai, Tamil Nadu
+183,3973814913,People Tech Group Inc,Business Analyst,IT Services and IT Consulting,10001,2363512,Full-time,Entry level,14,Hyderabad, Telangana
+184,3972972629,Jarvis Consultancy & Services,Data Engineer,IT Services and IT Consulting,10001,7473604,Full-time,Mid-Senior level,154,Pune, Maharashtra
+185,3973217909,Accenture in India,Sales Support Analyst,IT Services and IT Consulting,5000,246058,Full-time,Full-time,29,Bengaluru, Karnataka
+186,3975469982,Cognizant,Process Executive - Data,Software Development,10001,919640,Full-time,Entry level,28,Hyderabad, Telangana
+187,3974744867,Teamware Solutions a division of Quantum Leap Consulting Pvt. Ltd,Reference Data Associate,Information Services,5000,136637,Full-time,Associate,0,Mumbai, Maharashtra
+188,3977054244,GlobalLogic,Associate Analyst IRC231155,"Technology, Information and Internet",10000,755841,Full-time,Mid-Senior level,102,Hyderabad, Telangana
+189,3976164868,Third Bridge Group Limited,Private Market Analyst,IT Services and IT Consulting,500,177129,Full-time,Entry level,0,Mumbai, Maharashtra
+190,3977999980,Ascendion,Finance Data Management Analyst,Financial Services,200,109193,Full-time,Associate,115,Bengaluru, Karnataka
+191,3976924496,IDESLABS PRIVATE LIMITED,System Analyst,IT Services and IT Consulting,10001,1539173,Full-time,Entry level,121,Gurugram, Haryana
+192,3976100111,Bright Money,Product Analyst,IT Services and IT Consulting,10001,16853010,Full-time,Full-time,109,Bengaluru, Karnataka
+193,3963396076,Infosys BPM,Process Executive,IT Services and IT Consulting,10000,369368,Full-time,Mid-Senior level,121,Bengaluru, Karnataka
+194,3977229608,IBM,Process Analyst- HR,IT Services and IT Consulting,1000,928,Full-time,Full-time,49,Bengaluru East, Karnataka
+195,3977222029,Societe Generale Global Solution Centre,Cyber Security Product Manager - Vulnerability,IT Services and IT Consulting,10001,958248,Full-time,Mid-Senior level,194,Bengaluru, Karnataka
+196,3977016676,Bell Techlogix India,Associate Network & Infrastructure Engineer,IT Services and IT Consulting,200,15487,Full-time,Full-time,46,Hyderabad, Telangana
+197,3975878560,Mphasis,Solution Architect,Software Development,1000,157702,Full-time,Associate,130,Bengaluru, Karnataka
+198,3945090744,TechHost Services,SAP Cloud Integration,Information Services,10001,1033229,Full-time,Mid-Senior level,199,Bengaluru, Karnataka
+199,3973227340,JUSPAY,Business Development Manager - Mumbai,Motor Vehicle Manufacturing,10001,862565,Full-time,Entry level,190,Mumbai, Maharashtra
+200,3972319430,NielsenIQ,Data Analyst,Software Development,5000,188933,Full-time,Entry level,0,Chennai, Tamil Nadu
+201,3978521605,Cummins Inc.,BUSINESS INTELLIGENCE ANALYST,Sporting Goods,10001,3727520,Full-time,Full-time,69,Pune, Maharashtra
+202,3973326602,Avalara,Analyst,Financial Services,10001,5179660,Full-time,Full-time,51,Pune, Maharashtra
+203,3962747200,adidas,Junior Data Engineer,Business Consulting and Services,50,76282,Full-time,Internship,118,Gurgaon, Haryana
+204,3958014991,JPMorganChase,QR Analytics - Analyst -Mumbai,Financial Services,500,24846,Full-time,Mid-Senior level,162,Mumbai, Maharashtra
+205,3973747433,FranchiseBAZAR,Business Analyst Intern,Business Consulting and Services,10001,4173153,Full-time,Associate,51,Bengaluru, Karnataka
+206,3972934755,"Quiktrak, LLC",Data Analyst,IT Services and IT Consulting,200,30566,Hybrid,Full-time,0,Hyderabad, Telangana
+207,3975029175,Genpact,Business Analyst-BFS037174,IT Services and IT Consulting,10001,7473613,Full-time,Entry level,124,Gurugram, Haryana
+208,3976911218,Kiash Solutions LLP,PowerBI and SQL,Financial Services,5000,64658,Full-time,Entry level,41,Bengaluru East, Karnataka
+209,3970408660,Cognizant,Process Executive - Data,IT Services and IT Consulting,10001,9367342,Full-time,Full-time,103,Hyderabad, Telangana
+210,3973921857,Principal Global Services,Associate Product Manager,Staffing and Recruiting,200,70354,Internship,Entry level,102,Pune, Maharashtra
+211,3974794353,Wipro,Management Trainee,IT Services and IT Consulting,10001,2363523,Full-time,Entry level,53,Gurugram, Haryana
+212,3977084100,Adroit People Limited (UK),Junior Data Researcher,Financial Services,10000,401500,Full-time,Mid-Senior level,196,Hyderabad, Telangana
+213,3971149499,Accenture in India,Business Advisory Analyst,IT Services and IT Consulting,10001,1539179,Full-time,Entry level,28,Chennai, Tamil Nadu
+214,3972123324,Acuity Knowledge Partners,Credit Analysis - Bangalore,Advertising Services,10001,812116,Full-time,Full-time,16,Bengaluru, Karnataka
+215,3976803262,Infosys BPM,Technical Process Specialist,Information Services,10001,1033237,Full-time,Mid-Senior level,177,Pune, Maharashtra
+216,3972913419,Publicis Groupe,Analyst/Associate Manager - Paid Search,IT Services and IT Consulting,10001,16853033,Full-time,Full-time,86,Gurgaon, Haryana
+217,3971789446,NielsenIQ,Sales Development Representative,IT Services and IT Consulting,10001,958251,Full-time,Entry level,11,Mumbai, Maharashtra
+218,3973952308,IBM,Process Analyst - Risk and Compliance,IT Services and IT Consulting,5000,87602,Full-time,Associate,131,Bengaluru East, Karnataka
+219,3967481373,Mphasis,Knowledge Specialist,IT Services and IT Consulting,500,25736,Full-time,Entry level,0,Pune, Maharashtra
+220,3959676042,Evalueserve India,Analyst/Senior Analyst - Sell Side Equity Research,Financial Services,5000,51559,Full-time,Internship,0,Mumbai, Maharashtra
+221,3964092193,Zensoft Services,Senior Associate - Talent Acquisition,Oil and Gas,500,631230,Full-time,Entry level,172,Pune, Maharashtra
+222,3969909154,Ocwen Financial Solutions Pvt. Ltd. - APAC,"Intern, Data Management",Financial Services,10000,128230,Full-time,Entry level,0,Bengaluru, Karnataka
+223,3973970209,Oil and Gas Job Search Ltd,Master Data Analyst,Financial Services,10001,2474213,Full-time,Full-time,89,Pune, Maharashtra
+224,3973411049,Mr. Cooper,Data Analyst,IT Services and IT Consulting,10001,1578701,Full-time,Entry level,102,Chennai, Tamil Nadu
+225,3977355044,Deutsche Bank,Reference Data Analyst,Business Consulting and Services,50,76282,Full-time,Internship,167,Bengaluru, Karnataka
+226,3975943387,Maruti Suzuki India Limited,Data Analyst - Service,Software Development,10001,1747223,Full-time,Associate,60,Gurgaon, Haryana
+227,3976643403,Mastercard,Applications & Operations Support Analyst,Human Resources Services,10,20652,Full-time,Entry level,0,Gurgaon, Haryana
+228,3978525578,FranchiseBAZAR,Business Analyst Intern,IT Services and IT Consulting,10001,6299888,Full-time,Mid-Senior level,109,Bengaluru, Karnataka
+229,3973675442,Thomson Reuters,"Analyst, Know Your Customer (KYC)",Financial Services,10001,5179669,Full-time,Full-time,93,Bengaluru, Karnataka
+230,3973326603,Skill Farm,Financial Analyst I,Software Development,10001,3638117,Full-time,Full-time,35,Bengaluru, Karnataka
+231,3971782686,PwC,Business Data Analyst,Business Consulting and Services,10001,4488661,Full-time,Full-time,116,Hyderabad, Telangana
+232,3977320184,JPMorganChase,Data Visualization - Associate,Business Consulting and Services,5000,264200,Full-time,Full-time,50,Mumbai, Maharashtra
+233,3971157288,SAP,Associate Data Scientist,Software Development,10001,31536857,Full-time,Full-time,87,Gurgaon, Haryana
+234,3976913454,Boston Consulting Group (BCG),Junior Recruiter (Contract),Pharmaceutical Manufacturing,10001,1824970,Full-time,Full-time,175,Bengaluru, Karnataka
+235,3972727897,BCG X,"Data Analyst, Client Ops, Predictive, India- X Delivery",IT Services and IT Consulting,10001,6237995,Full-time,Entry level,32,Gurgaon, Haryana
+236,3971157196,Amazon,Business Development Associate,Business Consulting and Services,10001,16052036,Full-time,Full-time,33,Bengaluru, Karnataka
+237,3974265124,Eli Lilly and Company,Data Analyst - 1st Party Data,Staffing and Recruiting,500,124622,Full-time,Mid-Senior level,17,Bengaluru, Karnataka
+238,3978420448,Tech Mahindra,Associate Tech Specialist,IT Services and IT Consulting,5000,146643,Full-time,Mid-Senior level,52,Chennai, Tamil Nadu
+239,3920105396,Deloitte,Associate Analyst - Executive Assistant - USI Leadership Support Centre,IT Services and IT Consulting,500,83119,Full-time,Entry level,158,Hyderabad, Telangana
+240,3969555215,Jobs via eFinancialCareers,ICLS - Data & Analytics - Data Scientist,Banking,10001,625591,Full-time,Associate,97,Pune, Maharashtra
+241,3973137737,Nisum,Business Analyst - G6325,Software Development,200,12308,Full-time,Mid-Senior level,101,Hyderabad, Telangana
+242,3969971644,EbizON,Business Analyst - Marketing (Noida),IT Services and IT Consulting,10,249752,Full-time,Entry level,0,Noida, Uttar Pradesh
+243,3978494694,NatWest Group,Risk & Controls Analyst,IT Services and IT Consulting,10001,9367379,Full-time,Full-time,52,Bengaluru, Karnataka
+244,3975240614,Miamin Systems Inc.,Technical Recruiter,Retail,10000,404303,Full-time,Full-time,0,Bengaluru, Karnataka
+245,3969999653,Rekruton Technologies,QA Analyst,Marketing,100,0,Full-time,Mid-Senior level,0,Ahmedabad, Gujarat
+246,3978465903,Wipro,Financial Analyst,Financial Services,10001,5179675,Full-time,Full-time,66,Gurugram, Haryana
+247,3958131823,Tesco Bengaluru,Analyst-Property Reporting,IT Services and IT Consulting,10000,117338,Full-time,Mid-Senior level,157,Bengaluru, Karnataka
+248,3972966430,Micoworks,Micoworks - Data Analyst - BI Reporting,IT Services and IT Consulting,10001,2363544,Full-time,Entry level,40,Bengaluru, Karnataka
+249,3973681582,JPMorganChase,Reference Data Analyst,Business Consulting and Services,50,184511,Hybrid,Full-time,72,Mumbai, Maharashtra
+250,3976640890,CitiusTech,Data Engineer,Think Tanks,50,9564,Internship,Internship,0,Mumbai, Maharashtra
+251,3976810045,Accenture in India,Business Advisory Analyst,Advertising Services,5000,49991,Full-time,Mid-Senior level,103,Noida, Uttar Pradesh
+252,3977507692,YO HR Consultancy,Data Scientist/Analyst-Remote,Software Development,5000,274124,Full-time,Entry level,93,Pune, Maharashtra
+253,3961150207,Global Trade Observer,Research And Analytics Internship in Hyderabad,Travel Arrangements,10001,110286,Full-time,Entry level,24,Hyderabad, Telangana
+254,3975943381,Verticurl,Solutions Architect - Business Intelligence,IT Services and IT Consulting,10001,1501049,Full-time,Full-time,97,Bengaluru, Karnataka
+255,3976481144,HighRadius,Analyst- Strategy & Operations (Product),IT Services and IT Consulting,5000,17649,Full-time,Entry level,47,Hyderabad, Telangana
+256,3975169536,Flight Centre Travel Group,Telco Analyst,Software Development,1000,34620,Full-time,Full-time,58,Noida, Uttar Pradesh
+257,3973480268,CGI,Service Desk Technical Analyst,IT Services and IT Consulting,10001,7473624,Full-time,Entry level,13,Bengaluru, Karnataka
+258,3972981240,MassMutual India,Data Management Associate,IT Services and IT Consulting,10001,446368,Full-time,Entry level,107,Hyderabad, Telangana
+259,3977557340,Arcadia,Data Analyst - CX Ops,IT Services and IT Consulting,10001,15502592,Full-time,Mid-Senior level,169,Chennai, Tamil Nadu
+260,3976920626,Cognizant,Process Specialist - Data,IT Services and IT Consulting,5000,725436,Full-time,Mid-Senior level,81,Hyderabad, Telangana
+261,3975020607,Conduent,Business Analyst II,IT Services and IT Consulting,10000,7584953,Full-time,Full-time,18,Noida, Uttar Pradesh
+262,3976161683,Tata Consultancy Services,Presales Architect (Service Desk),Banking,10001,625592,Full-time,Associate,19,Bengaluru, Karnataka
+263,3977834361,System Soft Technologies,Project Manager,Apparel & Fashion,500,259307,Full-time,Mid-Senior level,167,Bengaluru, Karnataka
+264,3973227600,Crossover,"AI Analyst, Trilogy (Remote) - $60,000/year USD",Computer Hardware Manufacturing,10001,501278,Full-time,Associate,109,Noida, Uttar Pradesh
+265,3971174334,NatWest Group,Customer Service & Operations Analyst,IT Services and IT Consulting,10000,226342,Full-time,Mid-Senior level,0,Bengaluru, Karnataka
+266,3978441566,The Souled Store,Assistant Manager - Sourcing [Wovens],IT Services and IT Consulting,10001,15502599,Full-time,Associate,157,Mumbai, Maharashtra
+267,3973517449,Western Digital,"Global Talent Insights and Intelligence Analyst (2 + years : Tableau, Power BI, Data analytics )",IT Services and IT Consulting,10001,2187064,Full-time,Mid-Senior level,8,Bengaluru, Karnataka
+268,3974777290,Apexon,"Senior Data Analyst- SQL, MongoDB, SQL, Manual Testing",IT Services and IT Consulting,200,9223,Full-time,Associate,0,Pune, Maharashtra
+269,3977898195,Tata Consultancy Services,Network Engineer,IT Services and IT Consulting,10001,2164048,Full-time,Mid-Senior level,120,Bengaluru, Karnataka
+270,3975588602,Concentrix,"Professional I, People Analytics",Software Development,5000,143964,Full-time,Mid-Senior level,5,Gurugram, Haryana
+271,3975944358,Fusion Plus Solutions Inc,Power BI,IT Services and IT Consulting,10001,3979094,Full-time,Full-time,164,Hyderabad, Telangana
+272,3972936057,Capgemini Engineering,SDWAN (Operations),Financial Services,5000,572084,Full-time,Full-time,8,Bengaluru, Karnataka
+273,3976638818,e2open,"Analyst, Channel Data Service - Bangalore",Financial Services,10001,2350251,Full-time,Associate,5,Bengaluru, Karnataka
+274,3974776635,LTIMindtree,Marketing Data Analyst,Financial Services,10001,2350251,Full-time,Associate,5,Mumbai, Maharashtra
+275,3973536035,CRISIL Limited,Retainer (Contractual) - Financial Data Analyst,Software Development,5000,553077,Full-time,Associate,35,Pune, Maharashtra
+276,3957828256,Wells Fargo,Product Analyst,Business Consulting and Services,200,48010,Full-time,Associate,182,Hyderabad, Telangana
+277,3971171294,Wells Fargo,Product Analyst,IT Services and IT Consulting,10001,15502608,Full-time,Mid-Senior level,181,Hyderabad, Telangana
+278,3948597635,Cactus Communications,Associate Process Manager,Advertising Services,10001,1321871,Full-time,Internship,48,Mumbai, Maharashtra
+279,3976439598,Sikich India,Project Analyst (Ahmedabad),E-Learning Providers,500,71992,Full-time,Entry level,167,Ahmedabad, Gujarat
+280,3973963009,Tata Consultancy Services,Data Engineer,IT Services and IT Consulting,200,30566,Hybrid,Full-time,0,Hyderabad, Telangana
+281,3976667373,dentsu,Intern - Performance Practice,Advertising Services,500,61686,Full-time,Associate,184,Pune, Maharashtra
+282,3974792239,Quizizz,Product Analyst,IT Services and IT Consulting,10001,2363557,Full-time,Entry level,19,Bengaluru, Karnataka
+283,3976873503,Kiash Solutions LLP,Azure PowerBI,IT Services and IT Consulting,10001,2363557,Full-time,Entry level,15,Pune, Maharashtra
+284,3955909624,TING,Junior UX Designer,Automation Machinery Manufacturing,10001,962507,Full-time,Mid-Senior level,8,Mumbai, Maharashtra
+285,3977370681,Accenture in India,Risk and Compliance New Associate,IT Services and IT Consulting,500,83120,Full-time,Entry level,62,Bengaluru, Karnataka
+286,3976433747,Accenture in India,Risk and Compliance New Associate,Financial Services,10000,111067,Full-time,Entry level,134,Bengaluru, Karnataka
+287,3974789887,Rockwell Automation,Data Governance Analyst,Staffing and Recruiting,1000,118858,Full-time,Mid-Senior level,0,Bengaluru, Karnataka
+288,3959339373,EbizON,Fresher || MBA Graduates || Noida,IT Services and IT Consulting,10001,2363560,Full-time,Entry level,17,Noida, Uttar Pradesh
+289,3976459405,Guardian Life,Analyst - Reporting & Analytics,Marketing,100,0,Full-time,Full-time,103,Chennai, Tamil Nadu
+290,3978492694,MNR Solutions Pvt. Ltd.,Data Analyst - R/Python,Marketing,100,0,Full-time,Entry level,28,Hyderabad, Telangana
+291,3937207254,Accenture in India,Func & Ind Intelligence New Associate,Marketing,100,0,Full-time,Full-time,61,Gurgaon, Haryana
+292,3978007372,Cognizant,Programmer Analyst,Marketing,100,0,Full-time,Mid-Senior level,90,Chennai, Tamil Nadu
+293,3978456678,WPP,Service Reporting Analyst,Marketing,100,0,Contract,Entry level,0,Bengaluru, Karnataka
+294,3953798624,IBM,Process Analyst - Claims,Marketing,100,0,Full-time,Associate,36,Noida, Uttar Pradesh
+295,3978087743,Wipro,Business Analyst Insurance Domain,Marketing,100,0,Full-time,Entry level,10,Bengaluru, Karnataka
+296,3973300799,NR Consulting,Data Engineer - Python,IT Services and IT Consulting,10001,389436,Full-time,Mid-Senior level,85,Pune, Maharashtra
+297,3975707093,Tata Consultancy Services,Kinaxis RapidResponse,Financial Services,10001,2222901,Full-time,Mid-Senior level,130,Mumbai, Maharashtra
+298,3978004422,Infosys BPM,Senior Process Executive,Financial Services,10001,1935744,Full-time,Full-time,25,Pune, Maharashtra
+299,3976164064,Kyndryl,Business Analyst,Advertising Services,1000,17226,Full-time,Associate,180,Bengaluru, Karnataka
+300,3948213292,American Express,Analyst-Data Science,IT Services and IT Consulting,10001,355269,Full-time,Entry level,25,Gurugram, Haryana
+301,3973931765,BlackRock,"Analyst, Client Data Management",IT Services and IT Consulting,50,317,Full-time,Mid-Senior level,0,Gurgaon, Haryana
+302,3971722070,Virtusa,Data Modelling,Business Consulting and Services,50,184550,Hybrid,Full-time,91,Pune, Maharashtra
+303,3974237153,Havas Media Network India,Data Engineer,Business Consulting and Services,50,184550,Hybrid,Full-time,66,Bengaluru East, Karnataka
+304,3973973778,Capita,Executive - Customer Services,IT Services and IT Consulting,10001,651588,Full-time,Mid-Senior level,0,Pune, Maharashtra
+305,3977260299,Maimsd Technology,Data Engineer - SQL/Python,Financial Services,1000,1720,Full-time,Associate,44,Bengaluru East, Karnataka
+306,3973532344,YO HR Consultancy,Data Scientist/Analyst-Remote,Financial Services,5000,148080,Full-time,Full-time,24,Bengaluru, Karnataka
+307,3973532343,YO HR Consultancy,Data Scientist/Analyst-Remote,IT Services and IT Consulting,10001,15502668,Full-time,Mid-Senior level,137,Gurugram, Haryana
+308,3978004476,NTT DATA North America,Software Development Specialist,IT Services and IT Consulting,10001,15502668,Full-time,Associate,160,Noida, Uttar Pradesh
+309,3977912599,Tradu,Quantitative Risk Analyst,IT Services and IT Consulting,5000,179957,Full-time,Mid-Senior level,21,Hyderabad, Telangana
+310,3976173289,DWS Group,Operations Analyst- FX Confirmation,Restaurants,10001,173433,Full-time,Mid-Senior level,134,Pune, Maharashtra
+311,3974352144,Tata Consultancy Services,Presales Solution Architect (Digital Workplace),Financial Services,10000,62725,Full-time,Full-time,185,Bengaluru, Karnataka
+312,3973531333,Tata Consultancy Services,CEM Solution Architect,Marketing,100,0,Full-time,Entry level,0,Mumbai, Maharashtra
+313,3973312572,Jade Global,Azure Solution Architecture,IT Services and IT Consulting,10001,9050682,Full-time,Mid-Senior level,171,Pune, Maharashtra
+314,3973050229,Inspire,Data Product Analyst [T500-12035],IT Services and IT Consulting,5000,272721,Full-time,Full-time,0,Hyderabad, Telangana
+315,3969551863,Equiniti,MI Data Analyst,IT Services and IT Consulting,5000,17649,Full-time,Entry level,9,Chennai, Tamil Nadu
+316,3971074168,PropChk,PROPCHK - Data Analyst - Tableau/Power BI,IT Services and IT Consulting,10001,15502677,Full-time,Associate,121,Hyderabad, Telangana
+317,3974074251,Infosys,Oil and Gas Consultant,Software Development,10001,33556844,Full-time,Full-time,114,Bengaluru, Karnataka
+318,3966871432,PureSoftware Ltd,Data Engineer,Pharmaceutical Manufacturing,10001,1990588,Full-time,Full-time,23,Bengaluru, Karnataka
+319,3977532777,MassMutual India,Data Modeler,Financial Services,10001,2350278,Full-time,Associate,47,Hyderabad, Telangana
+320,3975926602,Tata Consultancy Services,Python Developer,IT Services and IT Consulting,1000,45646,Full-time,Mid-Senior level,199,Bengaluru, Karnataka
+321,3975940957,Google,"Program Manager, Counter Abuse, Google Photos, Google One","Transportation, Logistics, Supply Chain and Storage",10001,1927328,Full-time,Full-time,85,Bengaluru, Karnataka
+322,3971918627,Novo Nordisk,Associate Business Analyst,Business Consulting and Services,5000,284829,Full-time,Mid-Senior level,119,Bengaluru, Karnataka
+323,3974754304,Wells Fargo,Product Analyst,Business Consulting and Services,10001,589487,Full-time,Mid-Senior level,144,Hyderabad, Telangana
+324,3972702963,Yethi Consulting,Business Analyst,IT Services and IT Consulting,10000,586712,Full-time,Entry level,36,Mumbai, Maharashtra
+325,3975684833,A.P. Moller - Maersk,Associate Financial Analyst,IT Services and IT Consulting,200,8155,Full-time,Full-time,48,Pune, Maharashtra
+326,3974887246,Helius Technologies,Insurance Business Analyst,IT Services and IT Consulting,500,1956,Full-time,Full-time,38,Hyderabad, Telangana
+327,3971792932,Tredence Inc.,Presales Solutions Architect,Financial Services,200,3492,Full-time,Full-time,104,Bengaluru, Karnataka
+328,3974797676,Quess Corp Limited,Business Analyst - Capital Market,Financial Services,50,87,Full-time,Full-time,40,Mumbai, Maharashtra
+329,3977537448,Hitachi Vantara,Training & Development Associate,IT Services and IT Consulting,10001,446369,Full-time,Entry level,72,Hyderabad, Telangana
+330,3977232931,Arthya Tech Solutions,Wonderware developer,Retail,50,910,Full-time,Full-time,84,Bengaluru, Karnataka
+331,3971166821,GA Software Technologies Pvt. Ltd.,Sales Executive,IT Services and IT Consulting,5000,17649,Full-time,Entry level,15,Bengaluru, Karnataka
+332,3975168605,AC Agarwal,Branch Manager,Machinery Manufacturing,50,1533,Full-time,Full-time,173,Mumbai, Maharashtra
+333,3978078390,TradeMax Capital,Senior Sales Executive,Industrial Machinery Manufacturing,200,600,Full-time,Full-time,132,Hyderabad, Telangana
+334,3973109841,Conduent,Technical Business Analysis Engineer I,Retail,50,910,Full-time,Full-time,98,Noida, Uttar Pradesh
+335,3976684432,EYESENSE OPTICIANS,Optometrist,Retail,50,910,Full-time,Full-time,71,Bengaluru, Karnataka
+336,3973907200,MassMutual India,Data Operations Associate /Sr Associate,Marketing,100,0,Full-time,Full-time,76,Hyderabad, Telangana
+337,3971143588,Mahisa Packaging Systems LLP,Sales Engineer,Marketing,100,0,Full-time,Full-time,73,Mumbai, Maharashtra
+338,3972898597,URL Aseptic Automation Inc.,Senior Dotnet Developer,Marketing,100,0,Full-time,Full-time,184,Ahmedabad, Gujarat
+339,3974998681,EYESENSE OPTICIANS,Optometrist cum In-charge,IT Services and IT Consulting,200,9223,Full-time,Mid-Senior level,0,Bengaluru, Karnataka
+340,3977253857,EYESENSE OPTICIANS,Optometrist cum Senior sales executive,IT Services and IT Consulting,10001,9409308,Full-time,Full-time,1,Bengaluru, Karnataka
+341,3972977040,Raystek Process Instruments llp,Technical Sales Engineer,Business Consulting and Services,10001,4173250,Full-time,Associate,164,Ahmedabad, Gujarat
+342,3973901129,adish properties,Telemarketer,Financial Services,10001,2474253,Full-time,Full-time,77,Bengaluru, Karnataka
+343,3972857436,Vedhex Private Limited,Magento Developer,Software Development,10001,265049,Full-time,Mid-Senior level,48,Kurla, Maharashtra
+344,3971905230,Fusion Plus Solutions Inc,Power BI,Motor Vehicle Manufacturing,10001,1307595,Full-time,Entry level,17,Hyderabad, Telangana
+345,3977532670,Amazon Web Services (AWS),"ML Data Associate I, AWS Bedrock",IT Services and IT Consulting,10001,9367513,Full-time,Entry level,0,Chennai, Tamil Nadu
+346,3973697427,Genpact,Management Trainee – Python Developer-COR029020,Pharmaceutical Manufacturing,10001,1435021,Full-time,Entry level,35,Gurugram, Haryana
+347,3977310758,Deutsche Bank,Intern,Pharmaceutical Manufacturing,10001,1435021,Full-time,Entry level,22,Pune, Maharashtra
+348,3936688041,Trimble Inc.,Business Intelligence Analyst,Pharmaceutical Manufacturing,10001,1435021,Full-time,Entry level,23,Hyderabad, Telangana
+349,3976883210,Renault Group,Process Analyst / Officer,IT Services and IT Consulting,5000,51003,Full-time,Full-time,10,Chennai, Tamil Nadu
+350,3977857407,Wipro,Analyst,IT Services and IT Consulting,500,6650,Full-time,Mid-Senior level,47,Mumbai, Maharashtra
+351,3974773877,Bristol Myers Squibb,Decision Analyst I,Consumer Services,200,25048,Internship,Internship,0,Hyderabad, Telangana
+352,3974776510,Bristol Myers Squibb,Decision Analyst I,IT Services and IT Consulting,1000,68827,Full-time,Director,67,Hyderabad, Telangana
+353,3978097099,Bristol Myers Squibb,Decision Analyst I,IT Services and IT Consulting,1000,150057,Full-time,Associate,134,Hyderabad, Telangana
+354,3975188420,Syniverse,System Analyst Technology,Financial Services,10001,2474259,Full-time,Full-time,64,Bengaluru, Karnataka
+355,3972735528,Syndrome NewEdge,Presales Solutions Architect,Pharmaceutical Manufacturing,10001,1435021,Full-time,Entry level,20,Mumbai, Maharashtra
+356,3955909911,Supertails,Data Analytics Internship in Bangalore,IT Services and IT Consulting,200,27446,Full-time,Full-time,181,Bengaluru, Karnataka
+357,3932410197,Anblicks,Data Architect,E-learning,10000,564105,Full-time,Mid-Senior level,147,Hyderabad, Telangana
+358,3902062049,Tekskills Inc.,Business Development Manager,IT Services and IT Consulting,500,19103,Full-time,Mid-Senior level,29,Bengaluru, Karnataka
+359,3974291046,Deutsche Bank,"Reference Data Analyst, NCT",IT Services and IT Consulting,500,65065,Full-time,Mid-Senior level,176,Bengaluru, Karnataka
+360,3973137544,Bristol Myers Squibb,Decision Analyst II,Information Technology & Services,10001,136142,Full-time,Associate,69,Hyderabad, Telangana
+361,3977859116,Innovatily,Data Architect,Retail,5000,372646,Full-time,Entry level,26,Bengaluru, Karnataka
+362,3959359902,Vedantu,Senior Data Analyst,IT Services and IT Consulting,5000,17609,Full-time,Mid-Senior level,88,Bengaluru, Karnataka
+363,3978498402,GBIT (Global Bridge InfoTech Inc),Azure Data Architect,IT Services and IT Consulting,50,48254,Internship,Internship,105,Hyderabad, Telangana
+364,3973957898,Ecolab Digital Center,Technical Architect,Telecommunications,10001,508975,Full-time,Associate,113,Bengaluru, Karnataka
+365,3974743581,Exela Technologies,Data Architect,Business Consulting and Services,5000,71468,Full-time,Internship,57,Hyderabad, Telangana
+366,3948465752,Lowe's India,Data Scientist,IT Services and IT Consulting,10001,1183047,Full-time,Associate,12,Bengaluru, Karnataka
+367,3974750525,Value Point Systems Pvt Ltd,Presales Specialist,Oil and Gas,10001,6597754,Full-time,Full-time,160,Mumbai, Maharashtra
+368,3977532699,Gida Technologies,Project Management Intern,Financial Services,10000,194603,Full-time,Mid-Senior level,4,Bengaluru, Karnataka
+369,3973148168,Lumen Technologies,Information Security Engineer,Business Consulting and Services,500,91890,Full-time,Entry level,0,Bengaluru, Karnataka
+370,3976678951,Milliman,Actuarial Intern,IT Services and IT Consulting,10001,1320656,Full-time,Associate,59,Gurgaon, Haryana
+371,3973394514,Virtusa,Python,Insurance,10001,861662,Full-time,Full-time,20,Pune, Maharashtra
+372,3966424223,Shell,Shell Graduate Programme 2024 - India,Pharmaceutical Manufacturing,10001,1435022,Full-time,Entry level,16,Bengaluru, Karnataka
+373,3974747649,The Citco Group Limited,Analyst - Data Privacy,Financial Services,10001,2474267,Full-time,Full-time,29,Pune, Maharashtra
+374,3977231785,Sattva Consulting,Analyst - Nonprofits Advisory,IT Services and IT Consulting,200,9176,Full-time,Executive,6,Bengaluru, Karnataka
+375,3952837260,Verizon,Specialist - Business Intelligence,IT Services and IT Consulting,10001,9367536,Full-time,Full-time,2,Chennai, Tamil Nadu
+376,3972893333,MetLife,Consultant - Analytics,E-Learning Providers,10000,1064296,Internship,Internship,101,Noida, Uttar Pradesh
+377,3925575529,Bristol Myers Squibb,Decision Analyst II,IT Services and IT Consulting,10001,9367536,Full-time,Full-time,3,Hyderabad, Telangana
+378,3953334973,Deutsche Bank,"Operations Analyst, NCT",Human Resources Services,10,20658,Full-time,Entry level,0,Gurgaon, Haryana
+379,3975497053,Panzer Technologies Pvt Ltd,Business Development Executive,IT Services and IT Consulting,10001,47849,Full-time,Mid-Senior level,128,Hyderabad, Telangana
+380,3924668999,Wipro,Domain Consultant,Truck Transportation,10001,584894,Full-time,Full-time,177,Bengaluru, Karnataka
+381,3973959585,Unacademy,Operations Intern,IT Services and IT Consulting,10001,2363608,Full-time,Entry level,12,Bengaluru, Karnataka
+382,3908061820,Wipro,Domain Consultant,IT Services and IT Consulting,10001,9367537,Full-time,Full-time,4,Bengaluru, Karnataka
+383,3929034726,Skill Farm,Risk & Controls Analyst,Software Development,500,31826,Full-time,Entry level,0,Bengaluru, Karnataka
+384,3919923976,HCLTech – Engineering and R&D Services,Data Architect,IT Services and IT Consulting,1000,23895,Full-time,Internship,0,Hyderabad, Telangana
+385,3919069667,XPO,"Engineer, Technology",Business Consulting and Services,10001,5927984,Full-time,Full-time,92,Hyderabad, Telangana
+386,3956629009,Accenture in India,Risk and Compliance Analyst,IT Services and IT Consulting,50,53944,On-site,Full-time,74,Bengaluru, Karnataka
+387,3938443986,Wipro,Developer,IT Services and IT Consulting,5000,99716,Full-time,Executive,80,Pune, Maharashtra
+388,3932151274,BigStep Technologies,Business Development Associate,Marketing,100,0,Full-time,Entry level,0,Gurugram, Haryana
+389,3977961236,Srijan- A Material+ Company,IT Operations Trainee,Software Development,500,33211,Full-time,Associate,66,Gurugram, Haryana
+390,3978501057,McKinsey & Company,Enterprise Technology Advisor/Builder,IT Services and IT Consulting,200,15494,Full-time,Full-time,52,Gurugram, Haryana
+391,3976161207,Vimerse InfoTech Inc,SQL + BI + SAS,IT Services and IT Consulting,1000,7339,Full-time,Mid-Senior level,0,Gurugram, Haryana
+392,3977891309,Grid Dynamics,Data Architect,IT Services and IT Consulting,1000,153529,Full-time,Mid-Senior level,166,Bengaluru, Karnataka
+393,3971714867,IDESLABS PRIVATE LIMITED,Associate Technical Support Engineer,IT Services and IT Consulting,1000,153530,Full-time,Mid-Senior level,116,Pune, Maharashtra
+394,3971192622,DataWeave,Associate Technical Architect,Software Development,5000,188944,Full-time,Associate,144,Bengaluru, Karnataka
+395,3977269363,TechHost Services,SAP Cloud Integration,Financial Services,10001,5179760,Full-time,Full-time,130,Bengaluru, Karnataka
+396,3977851455,VE3,Peoplesoft Campus Solutions Analyst- Student Records,Internet Marketplace Platforms,500,94140,Contract,Mid-Senior level,106,Pune, Maharashtra
+397,3977850698,eJAmerica,Power Bi Developer,Software Development,10000,1013817,Full-time,Associate,43,Bengaluru, Karnataka
+398,3977849752,eJAmerica,Power Bi Developer,Airlines and Aviation,10001,662173,Full-time,Internship,23,Bengaluru, Karnataka
+399,3975890096,Avalara,Associate Analyst,Insurance,10001,351515,Full-time,Entry level,1,Pune, Maharashtra
+400,3963939987,JPMorganChase,Financial Analysis - Analyst,IT Services and IT Consulting,200,9223,Full-time,Associate,0,Mumbai, Maharashtra
+401,3977023296,SourceBae,Business Analyst,Online Audio and Video Media,200,77954,Full-time,Associate,69,Bengaluru, Karnataka
+402,3952691104,PhonePe,Business Analyst (2-3 Years),Software Development,5000,68082,Full-time,Entry level,73,Bengaluru, Karnataka
+403,3965347897,IndiGo (InterGlobe Aviation Ltd),Consultant - Trainee,"Transportation, Logistics, Supply Chain and Storage",10001,1927337,Full-time,Full-time,34,Gurgaon, Haryana
+404,3963211907,Allstate,Associate,Financial Services,10001,2222918,Full-time,Entry level,60,Bengaluru, Karnataka
+405,3977999425,Fusion Plus Solutions Inc,POWER BI,Business Consulting and Services,1000,102998,Full-time,Full-time,44,Hyderabad, Telangana
+406,3966058678,NEWJ,Business Associate,Banking,10001,2508904,Full-time,Full-time,6,Mumbai, Maharashtra
+407,3972892762,MRI Software,Business Analyst/Product Owner,Travel Arrangements,10001,261080,Full-time,Full-time,40,Bengaluru, Karnataka
+408,3973985428,A.P. Moller - Maersk,Supply Chain Development Analyst,Financial Services,200,5723,Full-time,Entry level,0,Bengaluru East, Karnataka
+409,3959448915,American Express,Financial Analyst,Financial Services,10001,5179768,Full-time,Full-time,19,Gurgaon, Haryana
+410,3971039479,Trinity Life Sciences,Associate Consultant - Business Intelligence,Hospitals and Health Care,10001,643353,Full-time,Full-time,9,Bengaluru, Karnataka
+411,3977362386,Bank of America,Analyst I - Applications Programming,IT Services and IT Consulting,10001,963577,Full-time,Entry level,146,Hyderabad, Telangana
+412,3958199686,American Express Global Business Travel,MI Analyst,Computer Games,500,63669,Full-time,Entry level,3,Gurgaon, Haryana
+413,3973397646,Discover Dollar Inc,Financial Analysis Consultant,"Technology, Information and Internet",200,31839,Internship,Internship,187,Bengaluru East, Karnataka
+414,3959504870,JPMorganChase,Data Scientist Associate,IT Services and IT Consulting,50,9139,Full-time,Full-time,105,Bengaluru, Karnataka
+415,3973472402,Labcorp,Financial Systems Analyst,Software Development,5000,381787,Full-time,Mid-Senior level,0,Bengaluru, Karnataka
+416,3972390917,EXL,Executives,IT Services and IT Consulting,200,5232,Full-time,Associate,57,Pune, Maharashtra
+417,3973975531,Kwalee,Junior QA Tester,Financial Services,10001,2350305,Full-time,Associate,20,Bengaluru, Karnataka
+418,3971446516,Yuma Energy,Product Management Intern,Hospitals and Health Care,10001,410201,Full-time,Mid-Senior level,95,Bengaluru, Karnataka
+419,3973742638,Baadalsoft LLC,Azure Data Engineer,Professional Services,10001,9091431,Internship,Entry level,12,Hyderabad, Telangana
+420,3977581912,Cvent,"Analyst II/Senior Analyst, Analytics",Software Development,10001,5282185,Full-time,Full-time,167,Gurugram, Haryana
+421,3973962305,GEEKAY INFOTECH,Business Development Manager,Financial Services,10001,492569,Full-time,Mid-Senior level,23,Mumbai, Maharashtra
+422,3974390731,Wells Fargo,Product Analyst,IT Services and IT Consulting,10001,9050734,Full-time,Associate,97,Bengaluru, Karnataka
+423,3975038144,UnitedHealthcare,Data Analyst,Financial Services,5000,572090,Full-time,Entry level,168,Bengaluru, Karnataka
+424,3973944804,EY,Analyst - Business Consulting Risk - TMT - CNS - Risk - Internal Audit - Bangalore,Software Development,10001,684038,Full-time,Full-time,49,Bengaluru, Karnataka
+425,3972888327,Salesforce,Intern,IT Services and IT Consulting,10000,471046,Full-time,Associate,148,Hyderabad, Telangana
+426,3973946704,Northern Trust,Senior Analyst,IT Services and IT Consulting,10001,162856,Full-time,Mid-Senior level,184,Pune, Maharashtra
+427,3977507693,The Citco Group Limited,IT.Security Analyst,IT Services and IT Consulting,5000,59096,Full-time,Associate,26,Pune, Maharashtra
+428,3955928258,Infosys,Information Technology Analyst,Software Development,500,91744,Full-time,Associate,149,Bengaluru, Karnataka
+429,3916586743,CRISIL Limited,Equity Research Analyst,Financial Services,10001,3080060,Full-time,Full-time,198,Pune, Maharashtra
+430,3978512734,NetApp,Product Pricing Analyst,IT Services and IT Consulting,5000,35458,Contract,Mid-Senior level,0,Bengaluru, Karnataka
+431,3974799530,YASH Technologies,Data Engineer,IT Services and IT Consulting,5000,17609,Full-time,Associate,28,Hyderabad, Telangana
+432,3978011221,Straive,Credit Risk Analyst,Manufacturing,10001,352289,Full-time,Entry level,161,Bengaluru, Karnataka
+433,3973652485,JLL Technologies,Data Engineer 1,Business Consulting and Services,1000,102998,Full-time,Full-time,10,Bengaluru East, Karnataka
+434,3953203863,Pixis,Data Processing Engineer,IT Services and IT Consulting,200,9538,Internship,Internship,0,Bengaluru, Karnataka
+435,3971143205,Morgan Stanley,Associate - Market Risk Analyst (Institutional Equity Division),Marketing,100,0,Full-time,Entry level,73,Mumbai, Maharashtra
+436,3939462240,NR Consulting,Performance Analytics,IT Services and IT Consulting,10001,9367584,Full-time,Full-time,10,Bengaluru, Karnataka
+437,3970483905,Value Point Systems Pvt Ltd,Business Development Specialist,Human Resources Services,10001,2380777,Full-time,Associate,115,Bengaluru, Karnataka
+438,3969809327,Godrej Group,Executive – L&D,IT Services and IT Consulting,50,10082,On-site,Full-time,0,Mumbai, Maharashtra
+439,3964079584,Trinity Life Sciences,Consultant - Data Science,Financial Services,10001,5179781,Full-time,Full-time,36,Bengaluru, Karnataka
+440,3973514844,Incentius,Devops Engineer Internship in Pune,Business Consulting and Services,10001,4173304,Full-time,Associate,47,Pune, Maharashtra
+441,3974086734,CRISIL Limited,Credit Analysis - US Public Finance,Financial Services,10001,614090,Full-time,Full-time,184,Pune, Maharashtra
+442,3974082705,Wipro,Developer,Advertising Services,500,61695,Internship,Internship,117,Pune, Maharashtra
+443,3959634465,Randstad,Recruiter,IT Services and IT Consulting,50,1546,Full-time,Entry level,0,Hyderabad, Telangana
+444,3975944337,Xomic Infotech Pvt. Ltd.,Jr. Quality Analyst,IT Services and IT Consulting,10001,6238097,Full-time,Entry level,28,Ahmedabad, Gujarat
+445,3976681889,JPMorganChase,Quant Analytics Associate,IT Services and IT Consulting,500,88701,Full-time,Mid-Senior level,112,Mumbai, Maharashtra
+446,3978488587,Genpact,Management Trainee-BFS037753,IT Services and IT Consulting,5000,65164,Full-time,Mid-Senior level,78,Noida, Uttar Pradesh
+447,3978496690,Macquarie Group,Market Risk Associate,IT Services and IT Consulting,10001,7473693,Full-time,Entry level,8,Gurugram, Haryana
+448,3977642573,TING,Web Development Intern,Human Resources Services,10001,1426044,Full-time,Entry level,161,Mumbai, Maharashtra
+449,3976849759,Vibrantzz Management Services.,E-Commerce Chat Process,Business Consulting and Services,10001,4173310,Full-time,Associate,155,Mumbai, Maharashtra
+450,3977236005,Tech Mahindra,Business Consultant,IT Services and IT Consulting,500,6468,Full-time,Mid-Senior level,192,Hyderabad, Telangana
+451,3974760896,Pronix Inc,Inside Sales Executive - IT Solutions and Services,IT Services and IT Consulting,10001,596573,Full-time,Mid-Senior level,41,Hyderabad, Telangana
+452,3976681361,ValueMomentum,Enterprise Data Architect,IT Services and IT Consulting,5000,65165,Full-time,Mid-Senior level,80,Hyderabad, Telangana
+453,3978411344,Cognizant,Associate - Projects,IT Services and IT Consulting,10001,56538,Full-time,Mid-Senior level,147,Chennai, Tamil Nadu
+454,3975168606,ADP,Customer Service Representative,IT Services and IT Consulting,5000,58509,Full-time,Full-time,197,Hyderabad, Telangana
+455,3978092402,Genpact,Customer Master Data,Financial Services,5000,148081,Full-time,Full-time,6,Bengaluru, Karnataka
+456,3958530979,Amista,Technical Consultant (SAP Business One),Retail,10001,612046,Full-time,Mid-Senior level,137,Hyderabad, Telangana
+457,3975651820,Birlasoft,Technical Specialist,Retail,5000,372651,Full-time,Entry level,31,Mumbai, Maharashtra
+458,3978513226,ValueMomentum,Cloud Architect,IT Services and IT Consulting,10001,2363628,Full-time,Entry level,45,Hyderabad, Telangana
+459,3978421124,Gainwell Technologies,Sr Business Analyst,IT Services and IT Consulting,5000,145842,Full-time,Associate,144,Bengaluru, Karnataka
+460,3942934807,PrimEra Medical Technologies,NLP Engineer – Healthcare,IT Services and IT Consulting,10001,446371,Full-time,Entry level,21,Hyderabad, Telangana
+461,3977390334,DWS Group,Operations Analyst– Salesforce CRM,IT Services and IT Consulting,10001,9367608,Full-time,Full-time,22,Pune, Maharashtra
+462,3976841254,Victoria’s Secret & Co.,Assistant Data Specialist [T500-12856],IT Services and IT Consulting,10001,9367608,Full-time,Full-time,18,Bengaluru, Karnataka
+463,3912983719,Lowe's India,"Associate Analyst, Store Merchandising",IT Services and IT Consulting,10001,9367610,Full-time,Full-time,16,Bengaluru, Karnataka
+464,3975217940,Accenture in India,Business Advisory Analyst,IT Services and IT Consulting,1000,46160,Full-time,Director,62,Noida, Uttar Pradesh
+465,3961522499,Avaloq,Banking Specialist Associate - Income & Corporate Actions,Outsourcing and Offshoring Consulting,10001,2298115,Full-time,Mid-Senior level,111,Pune, Maharashtra
+466,3978446249,Conduent,Transaction Processing Associate I,IT Services and IT Consulting,10001,7473697,Full-time,Entry level,40,Bengaluru, Karnataka
+467,3930583359,Wipro,Cyber Security Analyst,Manufacturing,5000,41876,Full-time,Full-time,42,Bengaluru, Karnataka
+468,3975811456,Wipro,Cyber Security Analyst,Financial Services,10001,492570,Full-time,Mid-Senior level,23,Bengaluru, Karnataka
+469,3974750540,Wipro,Cyber Security Analyst,Staffing and Recruiting,1000,120529,Full-time,Entry level,47,Bengaluru, Karnataka
+470,3977560704,Neudesic Technologies Private Limited,Azure Data Architect,Financial Services,5000,572090,Full-time,Entry level,133,Hyderabad, Telangana
+471,3973928836,Teleperformance,Presales Manager,Financial Services,10001,2474284,Full-time,Full-time,9,Mumbai, Maharashtra
+472,3956315262,Cognizant,Associate - Projects,Insurance,10001,351518,Full-time,Full-time,1,Pune, Maharashtra
+473,3973052107,General Mills India,Business Systems Analyst,IT Services and IT Consulting,200,9538,Internship,Internship,0,Mumbai, Maharashtra
+474,3974769500,Northern Trust,Senior Analyst,Human Resources Services,10001,2380792,Full-time,Associate,183,Pune, Maharashtra
+475,3975000725,GlobalHunt,Data Engineer,Financial Services,10001,226450,Full-time,Mid-Senior level,13,Pune, Maharashtra
+476,3975118668,CRISIL Limited,Equity Research Analyst,Banking,10001,625599,Full-time,Associate,25,Pune, Maharashtra
+477,3938029404,Deutsche Bank,"Operations Analyst, NCT",IT Services and IT Consulting,200,13888,Full-time,Mid-Senior level,47,Mumbai, Maharashtra
+478,3975533009,Allstate,Associate - Operations,IT Services and IT Consulting,10000,155933,Full-time,Mid-Senior level,192,Bengaluru, Karnataka
+479,3935172049,Incentius,Devops Engineer Internship in Pune,Information Technology & Services,5000,177165,Contract,Entry level,0,Pune, Maharashtra
+480,3978484871,Randstad,Recruiter,Spectator Sports,200,13122,Full-time,Full-time,130,Hyderabad, Telangana
+481,3969579388,Global Payments Inc.,Data Scientist,IT Services and IT Consulting,500,18532,Full-time,Director,31,Noida, Uttar Pradesh
+482,3953991781,NatWest Group,Customer Service & Operations Analyst,IT Services and IT Consulting,10001,6238109,Full-time,Mid-Senior level,188,Gurugram, Haryana
+483,3974256155,TETRAHED INC,Tableau Consultant with PYTHON or JAVA or DASH,IT Services and IT Consulting,10001,446372,Full-time,Entry level,14,Pune, Maharashtra
+484,3952811986,Sonata Software,Technical Consultant (D365 F&O),IT Services and IT Consulting,10001,446372,Full-time,Entry level,11,Bengaluru, Karnataka
+485,3955618921,VARITE INC,Business Intelligence Engineer II,Software Development,200,12443,Full-time,Mid-Senior level,195,Bengaluru, Karnataka
+486,3977862041,India On Track,Operations Manager,IT Services and IT Consulting,1000,2607,Full-time,Mid-Senior level,87,Mumbai, Maharashtra
+487,3974767004,RandomTrees,Technical Lead,IT Services and IT Consulting,500,30240,Full-time,Associate,61,Mumbai, Maharashtra
+488,3974293193,Tech Mahindra,D365F&O Technical Consultant,Automation Machinery Manufacturing,10001,962515,Full-time,Mid-Senior level,24,Hyderabad, Telangana
+489,3973977205,Conduent,Technical Business Analysis Engineer II,IT Services and IT Consulting,5000,236555,Full-time,Full-time,147,Noida, Uttar Pradesh
+490,3973320628,Conduent,Technical Business Analysis Engineer II,IT Services and IT Consulting,10001,2363638,Full-time,Entry level,4,Noida, Uttar Pradesh
+491,3978006214,Miamin Systems Inc.,Python Developer,Hospitals and Health Care,10001,147906,Full-time,Full-time,15,Bengaluru, Karnataka
+492,3976448773,Cyfuture Cloud,Business Development Manager-Mumbai,Professional Services,10001,9091483,Internship,Entry level,13,Mumbai, Maharashtra
+493,3977325735,Simple Logic IT Private Limited,Database Administrator,Professional Services,10001,9091483,Internship,Entry level,10,Mumbai, Maharashtra
+494,3976883345,Rockwell Automation,Data Governance Analyst,Professional Services,10001,9091483,Internship,Entry level,12,Noida, Uttar Pradesh
+495,3977239422,First Advantage,Associate Scrum Master,Data Infrastructure and Analytics,200,6295,Full-time,Mid-Senior level,0,Bengaluru, Karnataka
+496,3975869816,Accenture in India,Measurement & Report Analyst,Staffing and Recruiting,200,8868,Full-time,Mid-Senior level,153,Hyderabad, Telangana
+497,3977880430,Cencora,Analyst I - IT Solutions,Software Development,1000,18018,Full-time,Mid-Senior level,55,Pune, Maharashtra
+498,3971919512,EY,Analyst - Business Consulting Risk - TMT - CNS - Risk - Internal Audit - Bangalore,IT Services and IT Consulting,200,27852,Full-time,Mid-Senior level,0,Bengaluru, Karnataka
+499,3977237954,EY,Analyst - Business Consulting Risk - TMT - CNS - Risk - Internal Audit - Bangalore,Business Consulting and Services,50,44111,Full-time,Entry level,167,Bengaluru, Karnataka
+500,3973077054,EY,Analyst - Business Consulting Risk - TMT - CNS - Risk - Internal Audit - Bangalore,Advertising Services,10,8392,Full-time,Full-time,12,Bengaluru, Karnataka
+501,3971170257,Loyalytics AI,Business Analyst,Financial Services,10001,2474289,Full-time,Full-time,7,Bengaluru East, Karnataka
+502,3974755582,Quikdy,System Analyst,Financial Services,10001,2474289,Full-time,Full-time,3,Bengaluru, Karnataka
+503,3970435459,Hitachi Energy,Operation Analyst,IT Services and IT Consulting,200,81294,Full-time,Mid-Senior level,107,Chennai, Tamil Nadu
+504,3977203317,Entrata India,Financial Analyst,Outsourcing and Offshoring Consulting,5000,881,Full-time,Mid-Senior level,0,Pune, Maharashtra
+505,3978097444,IQuest Solutions Corporation,Business Analyst/Product Owner,IT Services and IT Consulting,5000,59096,Full-time,Associate,160,Bengaluru, Karnataka
+506,3958944209,sparkle★minds,Market Research Analyst,Insurance,10001,351518,Full-time,Entry level,0,Bengaluru, Karnataka
+507,3975174017,Auor,Business Development Associate (Full Time- Freshers only),Financial Services,10001,2222932,Full-time,Entry level,86,Mumbai, Maharashtra
+508,3975790913,Deutsche Bank,"Operations Analyst, NCT",IT Services and IT Consulting,10001,651593,Full-time,Mid-Senior level,12,Mumbai, Maharashtra
+509,3976908613,Deutsche Bank,"Operations Analyst, NCT",IT Services and IT Consulting,200,9538,Internship,Internship,0,Mumbai, Maharashtra
+510,3974778243,Valiance Solutions,Data Quality Analyst,Automation Machinery Manufacturing,5000,248260,Full-time,Mid-Senior level,80,Bengaluru, Karnataka
+511,3973672749,Advait Techserve,Business Analyst,IT Services and IT Consulting,1000,23453,Full-time,Full-time,49,Mumbai, Maharashtra
+512,3975002658,JLL Technologies,Software Engineer- 1,Financial Services,10001,2474291,Full-time,Full-time,21,Bengaluru East, Karnataka
+513,3973818567,Allstate,Associate - Operations,Pharmaceutical Manufacturing,10001,1435037,Full-time,Full-time,0,Bengaluru, Karnataka
+514,3973670821,American Express,Financial Analyst- Strategic Analytics,IT Services and IT Consulting,200,17927,Full-time,Mid-Senior level,139,Gurgaon, Haryana
+515,3975634542,NTT DATA North America,Business Sys. Analysis Specialist,IT Services and IT Consulting,200,4857,Full-time,Entry level,164,Chennai, Tamil Nadu
+516,3975202682,Incentius,DevOps Engineer Intern,IT Services and IT Consulting,500,87087,Full-time,Mid-Senior level,88,Pune, Maharashtra
+517,3976704936,Universal Robots,Business Development Manager,IT Services and IT Consulting,10001,9367646,Full-time,Full-time,3,Bengaluru East, Karnataka
+518,3976922636,Zones India,Senior Data Analyst,IT Services and IT Consulting,10001,9367646,Full-time,Full-time,18,Noida, Uttar Pradesh
+519,3957300488,Deutsche Bank,Operations Analyst NCT,IT Services and IT Consulting,10,610,Full-time,Full-time,122,Gurgaon, Haryana
+520,3954076054,Bristol Myers Squibb,BCF Analytics Analyst I,Financial Services,10001,614092,Full-time,Full-time,108,Hyderabad, Telangana
+521,3974789403,INRY,Presales Solutions Architect (ServiceNow),IT Services and IT Consulting,10000,865117,Full-time,Mid-Senior level,3,Hyderabad, Telangana
+522,3976102386,CloudMetic,Software Trainee - Salesforce,Human Resources Services,500,186522,Full-time,Associate,20,Noida, Uttar Pradesh
+523,3966540448,Anlage Infotech (India) P Ltd,Informatica Data Quality Consultant,Financial Services,10001,3080074,Full-time,Full-time,19,Bengaluru, Karnataka
+524,3955957162,Wipro,Technology Architect,IT Services and IT Consulting,10001,1183055,Full-time,Associate,75,Pune, Maharashtra
+525,3961256611,Wipro,Developer,Advertising Services,10001,1321916,Full-time,Entry level,161,Pune, Maharashtra
+526,3964468721,Kinematic Digital,Information Technology Sales Specialist,IT Services and IT Consulting,1000,88954,Internship,Internship,131,Pune, Maharashtra
+527,3947130834,Macquarie Group,Senior Data Analyst,IT Services and IT Consulting,10000,865117,Full-time,Mid-Senior level,11,Gurugram, Haryana
+528,3962925036,Zensar Technologies,HYBRID WAN,IT Services and IT Consulting,5000,260326,Full-time,Mid-Senior level,128,Pune, Maharashtra
+529,3978521606,HuntingCube Recruitment Solutions,Data Engineer,IT Services and IT Consulting,10001,1183055,Full-time,Associate,48,Bengaluru, Karnataka
+530,3977571536,Morgan Stanley,Associate - Reference Data Services (Operations),IT Services and IT Consulting,5000,179956,Full-time,Mid-Senior level,25,Mumbai, Maharashtra
+531,3977255827,Virtusa,Application Support,IT Services and IT Consulting,5000,260326,Full-time,Mid-Senior level,182,Chennai, Tamil Nadu
+532,3976641215,dentsu,Commercial Finance Analyst,IT Services and IT Consulting,5000,20420,Full-time,Mid-Senior level,137,Gurugram, Haryana
+533,3975412767,Keka HR,Program Management Intern,Business Consulting and Services,50,184617,Hybrid,Contract,181,Hyderabad, Telangana
+534,3974966147,Zensar Technologies,SOC SERVICES,IT Services and IT Consulting,200,7187,Full-time,Mid-Senior level,165,Pune, Maharashtra
+535,3973327102,Getronics,Cloud Pre-Sales Solution Architect,Financial Services,10001,1935790,Full-time,Full-time,17,Bengaluru, Karnataka
+536,3973323738,Virtusa,Cloud Security Architect,Medical Equipment Manufacturing,10001,32165,Full-time,Mid-Senior level,19,Pune, Maharashtra
+537,3973322804,Jade Global,Workday Functional,Business Consulting and Services,5000,284842,Full-time,Mid-Senior level,134,Pune, Maharashtra
+538,3969957571,Getronics,Technical Consultant - Network & Security (FortiGate),Marketing,100,0,Full-time,Entry level,0,Bengaluru, Karnataka
+539,3968140694,Allied Digital Services Limited,Business Development Manager,IT Services and IT Consulting,10001,1539245,Full-time,Entry level,11,Mumbai, Maharashtra
+540,3970412182,YO HR Consultancy,Python Data Scientist - Remote,Motor Vehicle Manufacturing,10001,838613,Full-time,Full-time,5,Pune, Maharashtra
+541,3951427793,Cloud Peritus,Technical Lead,Financial Services,10001,2474295,Full-time,Full-time,11,Hyderabad, Telangana
+542,3977239422,BlackRock,"Aladdin Business, Client Service, Analyst",Financial Services,10001,2474295,Full-time,Full-time,3,Gurgaon, Haryana
+543,3978437415,Solventum,Trade Compliance IT Product Manager (New Health Care Company),Financial Services,10001,2474295,Full-time,Full-time,8,Bengaluru East, Karnataka
+544,3977880430,Tredence Inc.,Senior Data Engineer,IT Services and IT Consulting,200,535,Full-time,Entry level,0,Bengaluru, Karnataka
+545,3974391553,MHLondon,Business Analyst in Noida,Financial Services,10001,2474295,Full-time,Full-time,3,Noida, Uttar Pradesh
+546,3977639825,Infosys BPM,Process Specialist,IT Services and IT Consulting,200,5632,Full-time,Mid-Senior level,52,Bengaluru, Karnataka
+547,3975790913,Michelin,Support Analyst - 2,Business Consulting and Services,10001,518794,Full-time,Full-time,93,Pune, Maharashtra
+548,3973672749,Deutsche Bank,"Operations Analyst, NCT",IT Services and IT Consulting,10001,15502828,Full-time,Mid-Senior level,104,Mumbai, Maharashtra
+549,3978436886,Deutsche Bank,"Operations Analyst, NCT",Business Consulting and Services,200,161670,Full-time,Mid-Senior level,185,Mumbai, Maharashtra
+550,3973972006,Deutsche Bank,"Operations Analyst, NCT",IT Services and IT Consulting,10001,963582,Full-time,Entry level,58,Mumbai, Maharashtra
+551,3973924281,EagleMount Software Pvt Ltd,Business Development Executive in Hyderabad,Professional Services,10001,276949,Full-time,Associate,35,Hyderabad, Telangana
+552,3964997095,Deutsche Bank,Operations Analyst NCT,Telecommunications,5000,131238,Full-time,Mid-Senior level,11,Mumbai, Maharashtra
+553,3975530604,Sakshath Technologies®,Sr. Power BI Developer,IT Services and IT Consulting,200,35978,Full-time,Mid-Senior level,1,Mumbai, Maharashtra
+554,3966559354,ZS,Associate - Platform Services - ETL,Financial Services,10001,3080077,Full-time,Full-time,15,Pune, Maharashtra
+555,3964356365,Tata Consultancy Services,SQL Database Administrator,Consumer Services,200,25048,Full-time,Full-time,170,Bengaluru, Karnataka
+556,3959360639,Consulting Point,Consulting Roles. Tier 1 Strategy Consultancy,IT Services and IT Consulting,200,12812,Full-time,Mid-Senior level,118,Bengaluru, Karnataka
+557,3976875305,EXL,Executives,IT Services and IT Consulting,10000,117340,Full-time,Mid-Senior level,10,Pune, Maharashtra
+558,3976870756,PwC Acceleration Centers in India,Data Science - HIA - Associate 2,Financial Services,10001,2222945,Full-time,Entry level,26,Bengaluru, Karnataka
+559,3978524343,Tata Tele Business Services,Product Sales Specialist,Software Development,500,75863,Full-time,Entry level,163,Ahmedabad, Gujarat
+560,3960331423,"Baanyan Software Services, Inc.",US IT Bench Sales,IT Services and IT Consulting,1000,46160,Full-time,Director,74,Hyderabad, Telangana
+561,3977279885,Morgan Stanley,Associate - Reference Data Services (Operations),IT Services and IT Consulting,10001,596579,Full-time,Mid-Senior level,16,Mumbai, Maharashtra
+562,3978002683,Supertails,Quality Analyst,IT Services and IT Consulting,10001,596579,Full-time,Mid-Senior level,14,Bengaluru, Karnataka
+563,3978474212,SELECCIÓN Consulting,SAP SAC Consultant,IT Services and IT Consulting,10001,596579,Full-time,Mid-Senior level,10,Hyderabad, Telangana
+564,3978510778,CitiusTech,Technical Lead - Artificial Intelligence,Software Development,10001,33557237,Full-time,Full-time,154,Mumbai, Maharashtra
+565,3975927470,American Express,TCPS Analyst,IT Services and IT Consulting,10001,1343192,Full-time,Full-time,56,Gurgaon, Haryana
+566,3974465173,WaferWire Cloud Technologies,Technical Recruiter / Talent Acquisition (Fresher),Financial Services,10001,594273,Full-time,Full-time,2,Hyderabad, Telangana
+567,3971150155,Neudesic Technologies Private Limited,Azure Data Architect,IT Services and IT Consulting,10001,16853564,Full-time,Full-time,90,Bengaluru, Karnataka
+568,3969954332,Birlasoft,Sr Analyst,Retail,10001,969449,Full-time,Mid-Senior level,75,Bengaluru East, Karnataka
+569,3975185789,Birlasoft,Sr Analyst,Financial Services,10001,2474296,Full-time,Full-time,6,Bengaluru East, Karnataka
+570,3977644506,Birlasoft,Sr Analyst,Financial Services,10001,2474296,Full-time,Full-time,8,Bengaluru East, Karnataka
+571,3974391492,Google,"UX Designer, Payments Platform",Financial Services,10001,2474296,Full-time,Full-time,4,Bengaluru, Karnataka
+572,3925809877,UST,Data Analyst,Financial Services,10001,2474296,Full-time,Full-time,3,Bengaluru, Karnataka
+573,3978073022,State Street,Associate System Analyst,Financial Services,10001,2474296,Full-time,Full-time,2,Hyderabad, Telangana
+574,3954217867,IBM,Data Engineer,Financial Services,10001,2474296,Full-time,Full-time,3,Pune, Maharashtra
+575,3970487715,lululemon,Engineer II [T500-12366],Financial Services,10001,2474297,Full-time,Full-time,3,Bengaluru, Karnataka
+576,3934371365,Deutsche Bank,"Operations Analyst, NCT",Financial Services,10001,2474298,Full-time,Full-time,4,Mumbai, Maharashtra
+577,3975192552,Deutsche Bank,"Operations Analyst, NCT",Financial Services,10001,2474299,Full-time,Full-time,11,Mumbai, Maharashtra
+578,3958889257,Deutsche Bank,"Operations Analyst, NCT",IT Services and IT Consulting,10001,6238131,Full-time,Mid-Senior level,174,Mumbai, Maharashtra
+579,3976678138,Deutsche Bank,"Operations Analyst, NCT",IT Services and IT Consulting,10001,1539250,Full-time,Mid-Senior level,11,Mumbai, Maharashtra
+580,3974365649,Deutsche Bank,"Operations Analyst, NCT",IT Services and IT Consulting,10001,396734,Full-time,Entry level,12,Mumbai, Maharashtra
+581,3978477770,Deutsche Bank,"Operations Analyst, NCT",IT Services and IT Consulting,50,1046,Full-time,Associate,21,Mumbai, Maharashtra
+582,3965194498,Deutsche Bank,"Operations Analyst, NCT",Business Consulting and Services,10001,4173386,Full-time,Associate,28,Mumbai, Maharashtra
+583,3960697505,Deutsche Bank,"Operations Analyst, NCT",Software Development,10001,31537626,Full-time,Full-time,70,Mumbai, Maharashtra
+584,3970417518,Deutsche Bank,"Operations Analyst , NCT",Business Consulting and Services,10001,4173386,Full-time,Associate,23,Mumbai, Maharashtra
+585,3967069236,Tech Mahindra,Architect - BI Reporting,IT Services and IT Consulting,5000,106732,Full-time,Mid-Senior level,85,Hyderabad, Telangana
+586,3977206773,Infosys BPM,Senior Analyst,IT Services and IT Consulting,5000,236557,Full-time,Full-time,120,Bengaluru, Karnataka
+587,3962746468,Amadeus,Product Definition Analyst 2,Manufacturing,10001,352289,Full-time,Entry level,30,Bengaluru, Karnataka
+588,3965101515,PhotonX Technologies,Junior Strategic Operations Coordinator,Business Intelligence Platforms,10,8989,Full-time,Full-time,2,Hyderabad, Telangana
+589,3978481519,Genpact,Management Trainee - Kore.AI Junior Developer-COR029012,Airlines and Aviation,10001,914312,Full-time,Full-time,20,Gurugram, Haryana
+590,3975234541,Amazon,"Production Planning Analyst, Supply Chain",Financial Services,5000,49902,Full-time,Entry level,41,Bengaluru, Karnataka
+591,3977234195,Genpact,Management Trainee - Kore.AI Junior Developer-COR029010,Marketing,100,0,Internship,Internship,1,Gurugram, Haryana
+592,3977232329,PURVIEW,Data Engineering + MLOPS,Information Services,10001,1033322,Full-time,Mid-Senior level,178,Hyderabad, Telangana
+593,3977229572,First Advantage,Associate UX Designer,Advertising Services,5000,411678,Full-time,Mid-Senior level,42,Bengaluru East, Karnataka
+594,3971689926,Godrej Group,Sales MIS Support,E-Learning Providers,200,1145,Full-time,Entry level,0,Mumbai, Maharashtra
+595,3978437519,Stratsyn AI Technology Service,Business Analyst,Financial Services,10001,2474301,Full-time,Full-time,58,Chennai, Tamil Nadu
+596,3971724478,United Airlines,Analyst - Total Rewards,Information Services,1000,34549,Full-time,Associate,171,Gurugram, Haryana
+597,3976640902,FE fundinfo,Junior Quality Analyst,IT Services and IT Consulting,500,8217,Full-time,Associate,105,Chennai, Tamil Nadu
+598,3975807384,Oliv AI,Product Intern,"Technology, Information and Internet",5000,1652075,Full-time,Entry level,186,Bengaluru, Karnataka
+599,3974395155,NielsenIQ,Executive Talent Acquisition,Software Development,200,7154,Full-time,Full-time,191,Pune, Maharashtra
+600,3974390730,Epsilon India,Principal Data Analyst,Software Development,1000,209607,Full-time,Mid-Senior level,172,Bengaluru, Karnataka
+601,3972936310,Teach Maven,Business Development Trainee in Bangalore,IT Services and IT Consulting,5000,40050,Full-time,Associate,154,Bengaluru, Karnataka
+602,3975174459,NTT DATA North America,Financial Analysis Specialist Advisor,Financial Services,500,24850,Full-time,Mid-Senior level,37,Bengaluru, Karnataka
+603,3973315577,Programming.com,Data Science --PD,Information Technology & Services,200,97199,Full-time,Mid-Senior level,180,Mumbai, Maharashtra
+604,3977641832,Deutsche Bank,Know Your Client (KYC) Analyst,Business Consulting and Services,10001,2240369,Full-time,Entry level,48,Bengaluru, Karnataka
+605,3959286805,Dun & Bradstreet Technology and Corporate Services India LLP,Senior Associate Research Analyst.,IT Services and IT Consulting,10001,6238146,Full-time,Associate,69,Hyderabad, Telangana
+606,3973826785,VService IT Solutions,Software Quality Analyst,Human Resources Services,10,3564,On-site,Full-time,0,Hyderabad, Telangana
+607,3973070572,Zomato,Key Accounts Manager,Financial Services,50,8974,Full-time,Full-time,105,Hyderabad, Telangana
+608,3947251568,RadiusAI,Sr Devops Engineer,IT Services and IT Consulting,5000,54606,Full-time,Entry level,118,Bengaluru, Karnataka
+609,3972336101,Recro,Business Development Manager,Financial Services,10001,2222957,Full-time,Full-time,13,Bengaluru, Karnataka
+610,3974393185,Aeries Technology,Associate implementation consultant,IT Services and IT Consulting,10001,1578752,Full-time,Mid-Senior level,169,Bengaluru, Karnataka
+611,3967438906,Bottomline Media Pvt Ltd,Client Servicing Executive,Advertising Services,50,7840,Full-time,Full-time,153,Bandra, Maharashtra
+612,3932179806,CCS,Client Servicing & Business Development Executive,Design,50,1610,Full-time,Full-time,195,Mumbai, Maharashtra
+613,3969790597,Custo,Creative Strategist,Retail,50,1083,Full-time,Full-time,38,Indore, Madhya Pradesh
+614,3969575023,CORDIAL DEVELOPERS PVT LTD,Sales And Marketing Executive,Construction,200,453,Full-time,Full-time,183,Trivandrum, Kerala
+615,3974157545,Global Advertisers Pvt. Ltd.,Digital Marketing Executive,Advertising Services,200,11714,Full-time,Full-time,127,Mumbai, Maharashtra
+616,3968282205,Marketaa,Digital Marketing Executive,Market Research,50,3194,Full-time,Full-time,170,Pune, Maharashtra
+617,3961155344,EarnYoung,Digital Marketing Executive,Staffing and Recruiting,10,58832,Full-time,Associate,169,Mumbai, Maharashtra
+618,3971160097,DViO Digital,Client Servicing Executive,Advertising Services,200,41024,Full-time,Mid-Senior level,90,Pune, Maharashtra
+619,3822752542,Schbang,Brand Solutions Strategist,Marketing,5000,316008,Full-time,Executive,175,Mumbai, Maharashtra
+620,3942605662,BigTrunk,Copy Trainee,Marketing,200,21996,Full-time,Full-time,107,Mumbai, Maharashtra
+621,3962604790,HockeyCurve,Digital Marketing,Marketing,50,14453,Full-time,Full-time,144,Mumbai, Maharashtra
+622,3962892904,eClerx,Analyst,Marketing,10001,321206,Full-time,Entry level,75,Pune, Maharashtra
+623,3951964221,iauro Systems Pvt. Ltd.,Sales Specialist,Marketing,500,9258,Full-time,Full-time,186,Pune, Maharashtra
+624,3962246803,HockeyCurve,Designer - Entry level,Marketing,50,14453,Full-time,Full-time,158,Pune, Maharashtra
+625,3971044093,Digital ROI,Assistant Digital Marketing Analyst,Marketing,200,10262,Full-time,Full-time,126,Pune, Maharashtra
+626,3737197378,Event Agency,Business Development and Client servicing Executive,Marketing,100,0,Full-time,Full-time,172,Mumbai, Maharashtra
+627,3975336543,AMC India,Nutritionist,Marketing,200,717,Full-time,Full-time,1,Mumbai, Maharashtra
+628,3937528256,Arya.ai,Marketing Content Specialist,Marketing,50,32738,Full-time,Full-time,45,Mumbai, Maharashtra
+629,3966193243,GUNN SOLUTION INDIA PVT LTD,Business Analyst,Marketing,50,6029,Full-time,Full-time,147,Pune, Maharashtra
+630,3965458541,Tech Mahindra,Business Consultant,Marketing,10001,6238855,Full-time,Entry level,187,Pune, Maharashtra
+631,3973948283,TETRAHED INC,BI Analyst,Marketing,200,14041,Full-time,Associate,134,Pune, Maharashtra
+632,3977203425,Wipro,Associate,Marketing,10001,9368816,Full-time,Entry level,0,Kolkata, West Bengal
+633,3951214203,mktg.doctor,Marketing Advertising Specialist,Marketing,50,1242,Full-time,Full-time,198,Pune, Maharashtra
+634,3942626271,DemandFluence,"Demand Generation Executive (Freshers, Pune only)",Marketing,50,583,Full-time,Full-time,88,Pune, Maharashtra
+635,3943424066,Wipro,Business Analyst,Marketing,10001,9368819,Full-time,Full-time,124,Pune, Maharashtra
+636,3943424066,Wipro,Business Analyst,Marketing,10001,9368820,Full-time,Full-time,111,Pune, Maharashtra
+637,3969061015,Digital ROI,Creative Strategist,Marketing,200,10262,Full-time,Full-time,129,Pune, Maharashtra
+638,3953204883,EVERSANA,Analyst,Marketing,10000,340429,Full-time,Associate,139,Pune, Maharashtra
+639,3959638690,Dentsu Creative,Graduate Trainee,Marketing,10000,482275,Internship,Internship,164,Mumbai, Maharashtra
+640,3956743869,Tech Mahindra,Customer Support Executive,Marketing,10001,6238863,Full-time,Associate,130,Pune, Maharashtra
+641,3969041345,Wipro,Analyst,Marketing,10001,9368829,Full-time,Full-time,105,Gurugram, Haryana
+642,3959478934,TresVista,Analyst - Business Development - Pune,Marketing,5000,107134,Full-time,Associate,175,Pune, Maharashtra
+643,3829693607,Evonence,Google Cloud - Business Development Executive,Marketing,50,13895,Full-time,Full-time,130,Pune, Maharashtra
+644,3970151926,Magnanimous Group,Performance Analyst,Marketing,200,5526,Full-time,Full-time,196,Mumbai, Maharashtra
+645,3975002302,Wipro,Technical Business Analyst,Marketing,10001,9368837,Full-time,Full-time,6,Pune, Maharashtra
+646,3959651825,Zensar Technologies,MARKETING,Marketing,10000,865375,Full-time,Mid-Senior level,153,Pune, Maharashtra
+647,3956427454,Google,Digital Marketing Strategist,Marketing,10001,33558881,Full-time,Full-time,120,Hyderabad, Telangana
+648,3957817652,Pattern®,Performance Marketing Assistant,Marketing,5000,56264,Full-time,Entry level,90,Pune, Maharashtra
+649,3968875711,Rajavruksha Group,Digital Marketing Executive,Marketing,50,1454,Full-time,Full-time,146,Bengaluru, Karnataka
+650,3920273267,Mphasis,Analyst - Data Visualisation,Marketing,10001,958430,Full-time,Mid-Senior level,132,Pune, Maharashtra
+651,3962914821,PerformAce,Growth Analyst,Marketing,10,648,Full-time,Full-time,135,Gurgaon, Haryana
+652,3938841557,LTIMindtree,Media Analyst,Marketing,10001,3979477,Full-time,Entry level,195,Bengaluru, Karnataka
+653,3955323071,Allianz Services,Associate Customer Service,Marketing,10000,101713,Full-time,Entry level,197,Pune, Maharashtra
+654,3967129051,Nutsby,Marketing Associate,Marketing,10,1180,Full-time,Full-time,193,Hyderabad, Telangana
+655,3954057476,Fulcro,Client Servicing Executive,Marketing,200,50399,Full-time,Associate,101,Mumbai, Maharashtra
+656,3975121221,Date Energy,Digital Marketing Executive,Marketing,10,1663,Full-time,Full-time,101,Pune, Maharashtra
+657,3952876564,Google,"Business Development Consultant, New Business Sales",Marketing,10001,33558895,Full-time,Full-time,146,Gurgaon, Haryana
+658,3977251136,Pratiti Technologies,Business Development Executive,Marketing,500,31390,Full-time,Full-time,38,Pune, Maharashtra
+659,3966528479,Searce Inc,Business Development Representative,Marketing,5000,131647,Full-time,Mid-Senior level,176,Pune, Maharashtra
+660,3951963224,ANSATA - Professional Audio,Business Development Executive,Marketing,50,3558,Full-time,Full-time,178,Mumbai, Maharashtra
+661,3964303908,Korenomics Sourceright,Business Development Executive,Marketing,200,1024,Full-time,Full-time,195,Pune, Maharashtra
+662,3962756564,Schbang,Jr. Brand Solutions Strategist - Client Servicing,Marketing,5000,316012,Full-time,Executive,196,Mumbai, Maharashtra
+663,3945799248,Le Frehindi Official,Digital Marketing Executive,Marketing,200,1343,Full-time,Full-time,125,Dehradun, Uttarakhand
+664,3960621369,Digital ROI,Digital Marketing Analyst,Marketing,200,10262,Full-time,Full-time,163,Pune, Maharashtra
+665,3958194860,Pattern®,Digital Marketing Analyst,Marketing,5000,56265,Full-time,Associate,155,Pune, Maharashtra
+666,3967461341,PAD Integrated Marketing and Communications,Client Servicing Executive - Agency Background,Marketing,200,9858,Full-time,Full-time,103,Hyderabad, Telangana
+667,3974154776,Global Advertisers Pvt. Ltd.,Digital Marketing Strategist,Marketing,200,11715,Full-time,Full-time,116,Mumbai, Maharashtra
+668,3943676997,Matrix Bricks,Business Development Executive,Marketing,50,6477,Full-time,Full-time,106,Mumbai, Maharashtra
+669,3941340907,iEnergizer,Customer Service Representative - L2,Marketing,10001,113919,Full-time,Entry level,173,Pune, Maharashtra
+670,3958298663,Scatter,Client Services Executive,Marketing,50,21611,Full-time,Entry level,199,Mumbai, Maharashtra
+671,3953093863,Tech Mahindra,Process Specialist,Marketing,10001,6238901,Full-time,Mid-Senior level,188,Pune, Maharashtra
+672,3975339211,Capgemini,V+ Business Analyst -Mumbai,Marketing,10001,6847800,Full-time,Mid-Senior level,1,Pune, Maharashtra
+673,3959655222,Zensar Technologies,MARKETING,Marketing,10000,865383,Full-time,Mid-Senior level,103,Pune, Maharashtra
+674,3931515252,Avient Corporation,Analytics Analyst,Marketing,10001,107270,Full-time,Associate,195,Pune, Maharashtra
+675,3974757094,Cognizant,Process Executive - Data,Marketing,10001,7474082,Full-time,Entry level,26,Pune, Maharashtra
+676,3959363882,M&C Saatchi Performance,SEM Executive,Marketing,500,101395,Full-time,Entry level,139,Bengaluru, Karnataka
+677,3963339333,IBM,Campaign Planner,Marketing,10001,16855458,Full-time,Full-time,117,Pune, Maharashtra
+678,3974751855,Cognizant,Associate - Projects,Marketing,10001,7474083,Full-time,Entry level,24,Pune, Maharashtra
+679,3931244892,UniAthena,Jr. SEO Executive,Marketing,200,41273,Full-time,Full-time,180,Pune, Maharashtra
+680,3973950068,TETRAHED INC,BI Analyst,Marketing,200,14052,Full-time,Associate,109,Hyderabad, Telangana
+681,3938839959,LTIMindtree,Media Analyst,Marketing,10001,3979488,Full-time,Entry level,156,Bengaluru, Karnataka
+682,3970874815,NSquare Xperts,Business Development Executive,Marketing,200,4563,Full-time,Full-time,76,Pune, Maharashtra
+683,3950868822,Tealbox Digital,Digital Marketing Executive,Marketing,50,20050,Full-time,Full-time,189,Bengaluru, Karnataka
+684,3971986430,Mosaic Wellness,Ecommerce Marketing Executive,Marketing,200,35040,Full-time,Full-time,172,Thane, Maharashtra
+685,3948788515,Schbang,Brand Solutions Strategist,Marketing,5000,316014,Full-time,Associate,138,Mumbai, Maharashtra
+686,3979018744,Sapiens,Business Analyst (Internal Movement),Marketing,10000,178309,Internship,Associate,0,Bengaluru East, Karnataka
+687,3975870395,Gemius Studios Pvt. Ltd.,Creative Strategist,Marketing,200,9118,Full-time,Full-time,18,Surat, Gujarat
+688,3961891457,Goezy Self Drive,Sales And Marketing Specialist,Marketing,100,0,Full-time,Full-time,60,Guwahati, Assam
+689,3927394600,Wipro,Business Analyst,Marketing,10001,9368920,Full-time,Full-time,149,Pune, Maharashtra
+690,3977269363,Wipro,Analyst,Marketing,10001,9368922,Full-time,Entry level,0,Mumbai, Maharashtra
+691,3959653393,Zensar Technologies,MARKETING,Marketing,10000,865391,Full-time,Mid-Senior level,81,Pune, Maharashtra
+692,3942734865,eClerx,Analyst,Marketing,10001,321208,Full-time,Entry level,73,Pune, Maharashtra
+693,3979022268,JPMorganChase,Client Data Analyst,Marketing,10001,5180396,Full-time,Full-time,1,Hyderabad, Telangana
+694,3974755429,Cognizant,Process Executive - Data,Marketing,10001,7474088,Full-time,Entry level,16,Pune, Maharashtra
+695,3927397335,Wipro,Data Analyst,Marketing,10001,9368930,Full-time,Full-time,122,Pune, Maharashtra
+696,3961294758,ConsultAdd Inc,Social Media Strategist,Marketing,500,34952,Full-time,Mid-Senior level,68,Pune, Maharashtra
+697,3977248613,Birlasoft,Business Analyst,Marketing,10001,596748,Full-time,Mid-Senior level,134,Noida, Uttar Pradesh
+698,3975000430,Wipro,Executive/Senior Executive,Marketing,10001,9368936,Full-time,Full-time,4,Pune, Maharashtra
+699,3956800722,AdLift India,Search Marketing Analyst,Marketing,200,31693,Full-time,Entry level,178,Gurugram, Haryana
+700,3973929660,"Futurism Technologies, INC.",Business Development Executive,Marketing,1000,47578,Full-time,Mid-Senior level,176,Pune, Maharashtra
+701,3974369389,The 5th Kreative.Co,Business Development Executive,Marketing,50,7,Full-time,Full-time,12,Mumbai, Maharashtra
+702,3977254048,YASH Technologies,BI Data Analyst Job,Marketing,10000,471158,Full-time,Mid-Senior level,32,Pune, Maharashtra
+703,3682023005,eClerx,Analyst,Marketing,10001,321208,Full-time,Entry level,150,Pune, Maharashtra
+704,3912922324,Truww,Business Development Executive,Marketing,200,17619,Full-time,Associate,150,Pune, Maharashtra
+705,3969043110,Wipro,Analyst,Marketing,10001,9368953,Full-time,Full-time,16,Gurugram, Haryana
+706,3942818164,Solvers India,Junior Analyst,Marketing,50,2245,Full-time,Full-time,0,Maharashtra, 
+707,3969994817,Wipro,Business Analyst,Marketing,10001,9368956,Full-time,Full-time,139,Pune, Maharashtra
+708,3962747442,Awchat & Olsen Design,Client Servicing Executive,Marketing,50,7708,Full-time,Full-time,161,Mumbai, Maharashtra
+709,3965535930,Schbang,Brand Solutions Strategist,Marketing,5000,316017,Full-time,Executive,165,Mumbai, Maharashtra
+710,3936860636,MEDIAMIX,Client Servicing Intern,Marketing,50,3015,Full-time,Full-time,51,Gurugram, Haryana
+711,3973473888,Schbang,BD Executive,Marketing,5000,316017,Full-time,Associate,196,Mumbai, Maharashtra
+712,3978411401,Infosys BPM,Consultant,Marketing,10001,1539580,Full-time,Mid-Senior level,4,Pune, Maharashtra
+713,3960224851,Synechron,Data Analyst,Marketing,10001,1084663,Full-time,Mid-Senior level,124,Mumbai, Maharashtra
+714,3953973968,Zomato,Associate || Customer Experience,Marketing,5000,1652230,Full-time,Entry level,199,Gurugram, Haryana
+715,3974828768,Infectious Advertising,Account Executive,Marketing,200,10157,Full-time,Full-time,106,Mumbai, Maharashtra
+716,3966403629,TripStack,Product Analyst,Marketing,200,35419,Full-time,Associate,187,Pune, Maharashtra
+717,3937316403,Ansira,Digital Client Specialist,Marketing,5000,15183,Full-time,Entry level,96,Pune, Maharashtra
+718,3941669043,Cognizant,Associate - Projects,Marketing,10001,7474104,Full-time,Entry level,109,Pune, Maharashtra
+719,3953228960,Amdocs,Digital Media Technician,Marketing,10001,1139575,Full-time,Mid-Senior level,68,Pune, Maharashtra
+720,3852352394,Inventive SMi,Business Development Executive,Marketing,500,7916,Full-time,Full-time,38,Pune, Maharashtra
+721,3943556615,PubMighty,Marketing Specialist,Marketing,50,4220,Full-time,Full-time,199,Pune, Maharashtra
+722,3965528770,WNS,Associate - Operations,Marketing,10001,1120622,Full-time,Associate,176,Pune, Maharashtra
+723,3974791011,Venture Consultancy Services (VCS),Business Development Executive,Marketing,200,5211,Full-time,Full-time,17,Lucknow, Uttar Pradesh
+724,3945862594,Wipro,Associate,Marketing,10001,9368982,Full-time,Full-time,174,Hyderabad, Telangana
+725,3682021097,eClerx,Analyst,Marketing,10001,321209,Full-time,Entry level,164,Pune, Maharashtra
+726,3973945883,Digital Gourmet,Business Development Executive,Marketing,50,322,Full-time,Full-time,25,Gurugram, Haryana
+727,3942495709,EisnerAmper,Marketing Content Coordinator,Marketing,5000,61822,Full-time,Full-time,48,Mumbai, Maharashtra
+728,3975155305,Boston Institute of Analytics,Business Development Executive - Mumbai,Marketing,500,64696,Full-time,Full-time,62,Mumbai, Maharashtra
+729,3810255562,Pattern®,Performance Marketing Assistant,Marketing,5000,56266,Full-time,Entry level,143,Pune, Maharashtra
+730,3957563141,Puretech Digital,Paid Media,Marketing,500,16397,Full-time,Mid-Senior level,147,Mumbai, Maharashtra
+731,3960085127,Publicis Media,Media Performance Analyst,Marketing,10001,344644,Full-time,Entry level,167,Gurgaon, Haryana
+732,3976146227,Virtusa,Business System Analyst,Marketing,10001,1183103,Full-time,Associate,7,Tamil Nadu, Andhra Pradesh
+733,3975162986,Boston Institute of Analytics,Business Development Executive - Pune,Marketing,500,64696,Full-time,Full-time,166,Pune, Maharashtra
+734,3967712821,Wipro,Management Trainee,Marketing,10001,9369003,Full-time,Full-time,83,Gurugram, Haryana
+735,3973946526,Fourart Designs Pvt. Ltd.,Digital Marketing Executive,Marketing,10,3744,Full-time,Full-time,61,Kochi, Kerala
+736,3969042217,Wipro,Analyst,Marketing,10001,9369009,Full-time,Full-time,29,Gurugram, Haryana
+737,3627623521,RevBoosters,Marketing Analyst,Marketing,50,2981,Hybrid,Full-time,0,Pune, Maharashtra
+738,3975122762,Innovative Glance,Digital Marketing Executive - Fresher,Marketing,50,1817,Full-time,Full-time,185,Ahmedabad, Gujarat
+739,3973953731,Social DNA,Client Services Representative,Marketing,50,5590,Full-time,Full-time,25,Hyderabad, Telangana
+740,3958921680,Schbang,Creative Intern,Marketing,5000,316017,Internship,Internship,138,Mumbai, Maharashtra
+741,3957684578,NSEG Pvt. Ltd.,Digital Marketing Specialist,Marketing,500,26513,Full-time,Full-time,135,Ahmedabad, Gujarat
+742,3973986773,Morgan Stanley,"Associate, Business Management, Operations",Marketing,10001,3080276,Full-time,Full-time,63,Mumbai, Maharashtra
+743,3952154589,Sprig Electronics,Digital Marketing Executive,Marketing,50,8401,Full-time,Full-time,185,Bengaluru, Karnataka
+744,3958390854,Searce Inc,Business Development Representative,Marketing,5000,131650,Full-time,Associate,138,Pune, Maharashtra
+745,3973945581,FoxyMoron,Jr. Client Servicing Executive,Marketing,500,111844,Full-time,Entry level,149,Mumbai, Maharashtra
+746,3901302031,LetsDressUp (LDU),Marketing Management Trainee,Marketing,50,17805,Full-time,Full-time,164,Gurugram, Haryana
+747,3969086652,Commonwealth Bank,Insights Analytics Analyst,Marketing,10001,1322086,Full-time,Full-time,105,Bengaluru East, Karnataka
+748,3965413590,PINKVILLA,Influencer Marketing Specialist,Marketing,10,6691,Full-time,Entry level,0,Mumbai, Maharashtra
+749,3964228991,dentsu,Product Owner,Marketing,500,55479,Full-time,Full-time,154,Pune, Maharashtra
+750,3958736389,SR analytics,SR Analytics - Associate - Business Development,Marketing,10001,4073699,Full-time,Full-time,134,Pune, Maharashtra
+751,3942619693,TripleLift,Business Systems Analyst,Marketing,5000,797523,Full-time,Full-time,113,Pune, Maharashtra
+752,3927701356,Flipkart,Manager - Digital Marketing (Media Specialist),Marketing,5000,316019,Full-time,Associate,122,Bengaluru, Karnataka
+753,3964314417,Razorpay,Intern - Startup Account Management,Marketing,50,6419,Full-time,Full-time,32,Bengaluru, Karnataka
+754,3977251411,Invezza Technologies,Business Development Executive,Marketing,10001,1322087,Full-time,Internship,48,Pune, Maharashtra
+755,3968069926,EVitamin Business Consulting Pvt. Ltd,Digital Marketing,Marketing,10001,3979527,Full-time,Mid-Senior level,191,Pune, Maharashtra
+756,3971722070,dentsu,Intern - Performance Practice,Marketing,10001,9369094,Full-time,Full-time,172,Pune, Maharashtra
+757,3960207341,LTIMindtree,Marketing Specialist,Marketing,5000,364130,Full-time,Associate,117,Mumbai, Maharashtra
+758,3959779548,Wipro,Associate,Marketing,200,2867,Full-time,Entry level,0,Gurugram, Haryana
+759,3975694621,Tata Consumer Products,Business Development Executive,Marketing,10000,1013983,Full-time,Associate,134,Mumbai, Maharashtra
+760,3973533453,Innovalabs Technologies,Digital Marketing Associate in Pune,Marketing,1000,60344,Contract,Internship,151,Pune, Maharashtra
+761,3978487757,PhonePe,Business Operations Analyst,Marketing,1000,15643,Full-time,Entry level,0,Bengaluru, Karnataka
+762,3977524526,Interactive Avenues,Management Trainee - Ecommerce,Marketing,10000,446895,Full-time,Full-time,172,Gurugram, Haryana
+763,3977303471,PMC,Junior Cloud Ops Analyst,Marketing,10001,9369105,Full-time,Full-time,68,Vadodara, Gujarat
+764,3973970908,Wipro,Associate,Marketing,500,1042,Full-time,Entry level,0,Hyderabad, Telangana
+765,3933412000,SutiSoft Ind,Analyst - Market Research,Marketing,10001,1183106,Full-time,Associate,181,Hyderabad, Telangana
+766,3815115861,HiveMinds,Marketing Analyst,Marketing,10001,1539611,Full-time,Entry level,146,Bengaluru, Karnataka
+767,3661672802,Virtusa,Content Strategist,Marketing,500,76712,Internship,Internship,180,Bangalore Urban, Karnataka
+768,3974777437,Infosys BPM,Customer Support Executive,Marketing,200,41026,Full-time,Entry level,0,Pune, Maharashtra
+769,3976760067,Moksha Media Group,Digital Marketing Intern,Marketing,10001,9369114,Full-time,Full-time,102,Bengaluru, Karnataka
+770,3967667166,DViO Digital,Client Partner,Marketing,1000,109874,Full-time,Entry level,13,Pune, Maharashtra
+771,3948269129,Wipro,Associate,Marketing,10001,9369118,Full-time,Full-time,155,Hyderabad, Telangana
+772,3977673052,Chegg India,Ads Business Analyst,Marketing,200,17653,On-site,Full-time,69,Delhi, Delhi
+773,3927397218,Wipro,Senior Executive,Marketing,200,43760,Full-time,Full-time,83,Gurugram, Haryana
+774,3963871839,Cloud Certitude,Marketing Trainee,Marketing,200,7798,Full-time,Entry level,0,Gurgaon, Haryana
+775,3973474110,Amura Marketing Technologies,Marketing Solutioning Strategy,Marketing,10,8258,Full-time,Full-time,135,Pune, Maharashtra
+776,3927143262,Invimatic Technologies Pvt Ltd,Marketing Analyst,Marketing,10001,321215,Full-time,Entry level,13,Pune, Maharashtra
+777,3924951629,IGT Solutions,Process Associate,Marketing,500,29022,Full-time,Mid-Senior level,0,Pune, Maharashtra
+778,3904669362,Integral Ad Science,Data Content Analyst,Marketing,10001,31539230,Full-time,Full-time,189,Pune, Maharashtra
+779,3830530685,HiveMinds,Analyst / Sr Analyst -,Marketing,10001,10487408,Full-time,Full-time,111,Gurgaon, Haryana
+780,3954180361,Amazon,Research Analyst,Marketing,10001,321216,Full-time,Entry level,20,Gurugram, Haryana
+781,3954475902,Kantar,"Intern - Quantitative Research, Consumer Insights",Marketing,10001,241806,Internship,Entry level,133,Bengaluru, Karnataka
+782,3975018423,Minds HR,Junior Digital Marketing Executive,Marketing,5000,42361,Full-time,Entry level,170,Gurugram, Haryana
+783,3967873916,Datamatics,Inside Sales Role - Freshers,Marketing,50,354533,Full-time,Mid-Senior level,146,Mumbai, Maharashtra
+784,3967353780,Performics India,Analyst - Digital,Marketing,10001,5180438,Full-time,Full-time,4,Mumbai, Maharashtra
+785,3979023136,JPMorganChase,Client Data Analyst,Marketing,5000,109938,Full-time,Associate,170,Hyderabad, Telangana
+786,3962902741,Tech Mahindra,Adobe Campaign,Marketing,50,1072,Full-time,Entry level,0,Gurugram, Haryana
+787,3939051011,MetrixLab,Junior/Associate Analyst – Field Management,Marketing,50,17030,Full-time,Entry level,127,Hyderabad, Telangana
+788,3912870096,P3 Multisolutions,Research Analyst,Marketing,5000,57431,Full-time,Entry level,0,Gurgaon, Haryana
+789,3959865829,Nexdigm,Market Research - Executive,Marketing,50,1747,Contract,Entry level,0,Mumbai, Maharashtra
+790,3968103614,Decathlon Sports India,Digital Marketing Manager,Marketing,10000,865433,Full-time,Entry level,181,Bengaluru, Karnataka
+791,3960375113,Powerdata Group Consulting,Paid Online Market Research - India,Marketing,200,13901,Full-time,Entry level,145,Delhi, Delhi
+792,3959650874,Zensar Technologies,JOINING,Marketing,5000,65135,Full-time,Associate,107,Pune, Maharashtra
+793,3967026866,Digichorus Technologies Pvt Ltd,Marketing Associate,Marketing,10,2280,Full-time,Full-time,154,Pune, Maharashtra
+794,3963737808,Shaadi.com,Creative strategist,Marketing,200,77549,Full-time,Mid-Senior level,117,Mumbai, Maharashtra
+795,3963149335,ZataakSe,Marketing trainee,Marketing,200,37182,Full-time,Associate,5,Navi Mumbai, Maharashtra
+796,3969814527,Borzo India,Marketing Analyst,Marketing,1000,55932,Full-time,Full-time,26,Mumbai, Maharashtra
+797,3979024490,Multiplier AI,Digital Marketing Executive,Marketing,10001,1322091,Internship,Internship,105,Hyderabad, Telangana
+798,3975304804,uFaber Edutech Pvt Ltd,Business Development Executive,Marketing,10,221,Full-time,Entry level,0,Mumbai, Maharashtra
+799,3967432002,dentsu,Graduate Trainee - ORM (Online Reputation Management),Marketing,5000,105549,Full-time,Associate,106,Mumbai, Maharashtra
+800,3965691397,HR6 Solutions,Business Development Executive in Pune,Marketing,10001,321216,Full-time,Mid-Senior level,64,Pune, Maharashtra
+801,3965590617,Etraveli Group,Product Analyst,Marketing,10001,610115,Full-time,Entry level,11,Pune, Maharashtra
+802,3978518081,eClerx,Modeling Analytics,Marketing,50,29049,Full-time,Full-time,22,Mumbai, Maharashtra
+803,3978444284,Ecolab,IT Operations Analyst,Marketing,200,11769,Full-time,Full-time,164,Pune, Maharashtra
+804,3977373054,Dimerse India,Junior Account Manager,Marketing,200,29447,Full-time,Entry level,30,Mumbai, Maharashtra
+805,3974150835,ISOLS Group,Business Development Executive,Marketing,200,100661,Full-time,Full-time,195,Kolkata, West Bengal
+806,3973952680,Tring,Brand Sales (B2B)-Fresher,Marketing,50,11685,Full-time,Full-time,92,Mumbai, Maharashtra
+807,3973930116,Airblack,Business Development Associate (Remote),Marketing,50,25481,Internship,Associate,143,Gurugram, Haryana
+808,3972360027,UrbanGabru,Content Strategist,Marketing,5000,316023,Internship,Internship,160,Pune, Maharashtra
+809,3959488386,Schbang,Brand Solutions Intern,Marketing,50,17616,Full-time,Full-time,176,Mumbai, Maharashtra
+810,3905307846,NetCom Learning,Marketing Associate - Fresher,Marketing,10001,830411,Full-time,Entry level,138,Delhi, Delhi
+811,3974170085,FabBox,Digital Marketing Associate- ONLY FRESHERS,Marketing,5000,316024,Internship,Internship,136,Mumbai, Maharashtra
+812,3962910426,upGrad,Junior Copywriter,Marketing,200,622,On-site,Full-time,0,Mumbai, Maharashtra
+813,3960456061,Schbang,Brand Solutions Intern,Marketing,5000,316024,Full-time,Entry level,139,Mumbai, Maharashtra
+814,3959485258,Siri Innovations,Business development executive,Marketing,10001,197798,Internship,Internship,138,Hyderabad, Telangana
+815,3968035566,SHINE Consulting,Business Development Associate,Marketing,5000,153869,Full-time,Mid-Senior level,117,Pune, Maharashtra
+816,3967016622,1840 & Company,Marketing Analyst,Marketing,5000,11948,Full-time,Internship,0,Rajkot, Gujarat
+817,3967014670,1840 & Company,Marketing Analyst,Marketing,10001,436045,Full-time,Entry level,0,Rajkot, Gujarat
+818,3978689370,Arya Omnitalk,Trainee / Executive -Web Support,Marketing,200,19760,Full-time,Entry level,0,Pune, Maharashtra
+819,3943506054,TMF Group,Visualization Specialist,Marketing,50,6621,Full-time,Entry level,6,Pune, Maharashtra
+820,3933058840,SJ Innovation LLC,Jr Business Development Analyst - Goa,Marketing,10000,55926,Full-time,Entry level,9,Goa, Goa
+821,3974781192,PROHED,Business Development Associate,Marketing,500,61761,Full-time,Mid-Senior level,32,Gurugram, Haryana
+822,3978434945,TVH,Sustainabilty Analyst,Marketing,5000,42362,Full-time,Associate,179,Pune, Maharashtra
+823,3975206288,TING,Social Media Manager,Marketing,500,259380,Full-time,Mid-Senior level,171,Goa, Goa
+824,3960024105,Performics India,Associate - Commerce,Marketing,1000,83531,Full-time,Entry level,122,Mumbai, Maharashtra
+825,3958853751,The Souled Store,Product Manager,Marketing,1000,83531,Full-time,Entry level,134,Mumbai, Maharashtra
+826,3956257551,CRIF India,Customer Support Executive,Marketing,50,7592,Full-time,Full-time,154,Pune, Maharashtra
+827,3955677060,CRIF India,Customer Support Executive,Marketing,10001,2364558,Full-time,Entry level,10,Pune, Maharashtra
+828,3958883296,Everstylish,Performance Marketing Executive,Marketing,5000,316025,Internship,Internship,109,Gurgaon, Haryana
+829,3951160620,Accenture in India,Business Advisory Associate,Marketing,5000,90771,Full-time,Mid-Senior level,11,Hyderabad, Telangana
+830,3932378126,Schbang,Brand Solutions Intern,Marketing,10000,1064398,Part-time,Internship,174,Mumbai, Maharashtra
+831,3979017916,Netscribes,Presales Consultant,Marketing,10001,33559237,Full-time,Full-time,86,Mumbai, Maharashtra
+832,3924273920,Google,"Advertising Solutions Architect, gTech",Marketing,10001,31539354,Full-time,Full-time,124,Gurgaon, Haryana
+833,3972981240,Amazon,Business Development Associate,Marketing,5000,378774,Full-time,Associate,158,Bengaluru, Karnataka
+834,3972022062,Amazon,Business Development Associate,Marketing,5000,363266,Contract,Entry level,14,Bengaluru, Karnataka
+835,3963398025,GLG,Client Solutions - Evening Shift,Marketing,200,40635,Full-time,Associate,187,Mumbai, Maharashtra
+836,3974775353,Edvoy,Marketing Data Analyst,Marketing,10001,3080285,Full-time,Full-time,181,Chennai, Tamil Nadu
+837,3966477006,MRO,Client Account Executive,Marketing,50,65512,Full-time,Full-time,2,Pune, Maharashtra
+838,3918872072,Morgan Stanley,Operations Analyst - Parametric,Marketing,5000,56267,Full-time,Mid-Senior level,26,Mumbai, Maharashtra
+839,3974775560,GoodSpace – AI Recruitment Platform,Digital Marketing Executive,Marketing,50,7676,Full-time,Full-time,105,Surat, Gujarat
+840,3973602265,Pattern®,Digital Marketing Specialist,Marketing,10001,1322096,Full-time,Mid-Senior level,163,Pune, Maharashtra
+841,3970642205,The Preface,Brand Strategist,Marketing,50,18175,Full-time,Associate,181,Mumbai, Maharashtra
+842,3959368546,dentsu,Media Planner,Marketing,50,3015,Full-time,Full-time,51,Mumbai, Maharashtra
+843,3958797349,Nlineaxis IT Solutions Pvt Ltd,Business Development Associate,Marketing,500,7657,Hybrid,Full-time,0,Noida, Uttar Pradesh
+844,3936860636,MEDIAMIX,Client Servicing Intern,Marketing,500,61764,Full-time,Associate,164,Gurugram, Haryana
+845,3656700166,Qualitas Global,Digital Marketer,Marketing,1000,60346,Full-time,Entry level,0,Pune, Maharashtra
+846,3977260299,TING,Junior UX Designer,Marketing,1000,72978,Full-time,Mid-Senior level,181,Mumbai, Maharashtra
+847,3965692360,Interactive Avenues,Content & E-commerce Management Trainee in Gurgaon,Marketing,50,1464,Full-time,Full-time,175,Gurgaon, Haryana
+848,3966605728,Acoustic,Campaign Manager,Marketing,500,27581,On-site,Full-time,0,Pune, Maharashtra
+849,3968875711,Rajavruksha Group,Digital Marketing Executive,Marketing,50,133709,Full-time,Associate,135,Bengaluru, Karnataka
+850,3968029397,UnboundB2B,Lead Generation Executive,Marketing,10001,15504328,Full-time,Mid-Senior level,193,Pune, Maharashtra
+851,3963947594,Tata Consultancy Services,UX Strategist,Marketing,10001,1914199,Full-time,Associate,109,Tamil Nadu, Tamil Nadu
+852,3721900293,Sinfully CO,Core Team,Marketing,10001,321219,Full-time,Entry level,125,Hyderabad, Telangana
+853,3973412066,Tata Technologies,Digital marketing,Marketing,1000,72978,Full-time,Mid-Senior level,198,Pune, Maharashtra
+854,3682019522,eClerx,Analyst,Marketing,10000,289891,Full-time,Entry level,189,Pune, Maharashtra
+855,3957702412,Acoustic,Jr. Technical Analyst,Marketing,500,101402,Full-time,Internship,170,Pune, Maharashtra
+856,3977501425,Cybage Software,Search Engine Optimization Executive,Marketing,5000,797528,Full-time,Full-time,143,Pune, Maharashtra
+857,3960219801,M&C Saatchi Performance,Media Intern,Marketing,500,99423,Full-time,Associate,0,Bengaluru, Karnataka
+858,3964314417,Razorpay,Intern - Startup Account Management,Marketing,200,3318,Full-time,Entry level,109,Bengaluru, Karnataka
+859,3975901807,Saatchi & Saatchi Propagate,Copywriter,Marketing,50,34,Full-time,Full-time,38,Maharashtra,Maharashtra
+860,3973320470,N2MLEARNZ,Business Development Associate,Marketing,5000,409531,Full-time,Entry level,0,Hyderabad, Telangana
+861,3973618880,PR Pundit Havas Red,Digital Marketing Associate,Marketing,200,7090,Full-time,Full-time,26,Gurugram, Haryana
+862,3977253437,Abbacus Technologies,Business Development Executive,Marketing,200,19679,Internship,Internship,0,Ahmedabad, Gujarat
+863,3965615405,CapeStart,Research Analyst,Marketing,10000,616157,Full-time,Associate,46,Nagercoil, Tamil Nadu
+864,3978456957,PW (PhysicsWallah),Product Analyst,Marketing,10000,19287,Full-time,Entry level,19,Noida, Uttar Pradesh
+865,3974792038,Dentsu India,Copywriter,Marketing,10,2466,Full-time,Full-time,103,Bengaluru, Karnataka
+866,3974767004,Hitachi Digital Services,Training & Development Associate,Marketing,5000,200279,Full-time,Mid-Senior level,96,Hyderabad, Telangana
+867,3961654181,Qualys,Marketing Specialist,Marketing,10000,482293,Full-time,Executive,137,Pune, Maharashtra
+868,3957893109,Solytics Partners,Presales Consultant,Marketing,500,7592,Full-time,Mid-Senior level,148,Pune, Maharashtra
+869,3953079411,Dentsu Creative,Copywriter,Marketing,1000,189772,Full-time,Associate,194,Gurugram, Haryana
+870,3975194207,Collegedunia,Business Development Associate,Marketing,200,6624,Full-time,Full-time,39,Gurugram, Haryana
+871,3976995914,Velocitta Brand Consultants,Client Servicing Executive,Marketing,10001,812252,Full-time,Associate,162,Pune, Maharashtra
+872,3949457986,Acquaint Softtech Private Limited,Junior Business Development Executive,Marketing,500,101403,Full-time,Associate,101,Ahmedabad, Gujarat
+873,3976641460,Viva Tech Solutions,Digital Marketing - Intern,Marketing,50,7976,Hybrid,Full-time,0,Chennai, Tamil Nadu
+874,3959368172,EXL,Executives,Marketing,50,527,Full-time,Full-time,0,Pune, Maharashtra
+875,3627622638,Publicis Groupe,Copywriter,Marketing,50,8708,Internship,Internship,0,Gurugram, Haryana
+876,3975567285,M&C Saatchi Performance,Junior Manager- Strategy and Insights,Marketing,200,12230,Full-time,Associate,179,Bengaluru, Karnataka
+877,3973533303,plan-a,Account Manager,Marketing,50,11685,Full-time,Full-time,23,Pune, Maharashtra
+878,3964465508,LUNAER,Business Development Executive,Marketing,10,12101,Hybrid,Full-time,168,Gurugram, Haryana
+879,3976101063,ConnectingDots Infotech,Digital Marketing Internship in Pune,Marketing,200,568,Full-time,Associate,170,Pune, Maharashtra
+880,3813433867,CloudNow Technologies,Business Development Executive,Marketing,500,18006,On-site,Full-time,0,Chennai, Tamil Nadu
+881,3942148256,UrbanGabru,Influencer Marketing Associate,Marketing,500,8892,Full-time,Full-time,152,Pune, Maharashtra
+882,3973331019,MVK STAFFING SERVICES PRIVATE LIMITED,Data Analyst,Marketing,5000,316047,Full-time,Entry level,174,Bengaluru, Karnataka
+883,3959656272,RAMINFO LTD,Marketing Associate,Marketing,5000,131663,Full-time,Mid-Senior level,186,Hyderabad, Telangana
+884,3969026697,EVitamin Business Consulting Pvt. Ltd,Business Development Associate,Marketing,500,18006,On-site,Full-time,0,Indore, Madhya Pradesh
+885,3966528479,Drunken Monkey,Jr. Business Development Executive,Marketing,200,104589,Full-time,Associate,167,Bengaluru, Karnataka
+886,3973322988,Schbang,Influencer Strategist,Marketing,50,6621,Internship,Entry level,2,Mumbai, Maharashtra
+887,3971115205,Searce Inc,Business Development Representative,Marketing,500,18006,On-site,Full-time,0,Pune, Maharashtra
+888,3974776949,EVitamin Business Consulting Pvt. Ltd,Business Development Associate,Marketing,500,18006,On-site,Full-time,0,Indore, Madhya Pradesh
+889,3973328078,Ditto Insurance,Marketing Executive,Marketing,50,1484,Full-time,Full-time,28,Bengaluru, Karnataka
+890,3973323918,PROHED,Content Writing : Intern,Marketing,5000,316046,Full-time,Internship,115,Gurugram, Haryana
+891,3971195564,EVitamin Business Consulting Pvt. Ltd,Business Development Associate,Marketing,500,65806,Full-time,Entry level,199,Indore, Madhya Pradesh
+892,3967616808,EVitamin Business Consulting Pvt. Ltd,Business Development associate,Marketing,50,129,Full-time,Full-time,53,Indore, Madhya Pradesh
+893,3957615248,Schbang,Copywriting Intern,Marketing,50,12023,Full-time,Full-time,132,Mumbai, Maharashtra
+894,3936252785,Panamax Infotech,Business Development Executive,Marketing,50,13897,Full-time,Full-time,169,Ahmedabad, Gujarat
+895,3834964754,TheSalesPlus,Digital Marketing Executive - Surat,Marketing,200,432,Full-time,Mid-Senior level,170,Surat, Gujarat
+896,3829693607,Aditya Birla Group,"Creative Director, Peter England",Marketing,200,5856,Internship,Internship,0,Bangalore Rural, Karnataka
+897,3961061782,Evonence,Google Cloud - Business Development Executive,Marketing,50,9564,Internship,Internship,0,Pune, Maharashtra
+898,3952350668,A2Z Online Services Private Limited (Panchshil Group).,Executive Assistant,Marketing,5000,56269,Full-time,Full-time,7,Pune, Maharashtra
+899,3975890947,Virtusa,Data Analyst - KPO,Marketing,5000,633971,Full-time,Mid-Senior level,169,Tamil Nadu,Andhra Pradesh
+900,3955238590,Global Trade Observer,Research And Analytics Internship in Hyderabad,Marketing,200,3460,Full-time,Entry level,0,Hyderabad, Telangana
+901,3959322819,Pattern®,Digital Advertising Strategist,Marketing,500,101404,Full-time,Entry level,199,Pune, Maharashtra
+902,3955235876,Sujata Computers Pvt Ltd,Internship Digital Marketing ( 3-6 months),Marketing,10000,200455,Full-time,Associate,138,Pune, Maharashtra
+903,3959363882,Nykaa,Manager- Retail Brand Management,Marketing,500,25005,On-site,Full-time,0,Mumbai, Maharashtra
+904,3978436880,BrainMine Web solutions Pvt Ltd,SEO Analyst,Marketing,10,190,Full-time,Full-time,42,Pune, Maharashtra
+905,3968064968,M&C Saatchi Performance,SEM Executive,Marketing,50,4741,Full-time,Full-time,20,Bengaluru, Karnataka
+906,3977265481,DMart - Avenue Supermarts Ltd,Content Writer (Work from Office),Marketing,1,233,Full-time,Entry level,195,Thane, Maharashtra
+907,3976796485,Mazenet Solution,Technical customer support,Marketing,200,11021,Full-time,Full-time,165,Hyderabad, Telangana
+908,3972825941,The Motion Story,Mid Level Business Development Executive,Marketing,10,212,Full-time,Full-time,162,Mumbai, Maharashtra
+909,3971691102,belif India,Marketing Management Trainee,Marketing,10,1233,Full-time,Full-time,92,Worli, Maharashtra
+910,3971138596,Growthmodo,Junior Media Buyer - Meta Ads,Marketing,10001,2364733,Full-time,Entry level,66,Gurugram, Haryana
+911,3968272290,Mastercard,"Managing Consultant, Marketing Services",Marketing,10001,2364734,Full-time,Entry level,76,Hyderabad, Telangana
+912,3967521142,Auvi Digital,Business Development Executive,Marketing,50,32433,Full-time,Full-time,122,Bengaluru, Karnataka
+913,3967515987,DigiNumeric,Digital Marketing Specialist/ Intern,Marketing,1000,47582,Full-time,Mid-Senior level,101,Ahmedabad, Gujarat
+914,3965580488,Accenture in India,Brand & Comm Strategy New Associate,Marketing,1000,65085,Full-time,Associate,163,Gurgaon, Haryana
+915,3965152301,Accenture in India,Brand & Comm Strategy New Associate,Marketing,50,42097,Full-time,Full-time,116,Gurgaon, Haryana
+916,3959714797,Frido,Demand Planner,Marketing,50,2561,Full-time,Full-time,80,Pune, Maharashtra
+917,3951419474,"Futurism Technologies, INC.",Digital Marketing Specialist,Marketing,50,5864,Full-time,Full-time,108,Pune, Maharashtra
+918,3950855023,Amway India Enterprises Private Limited,Marketing Executive,Marketing,5000,15185,Full-time,Mid-Senior level,4,Mumbai, Maharashtra
+919,3906627023,Pixelo Digital,Business Development Associate (B2B Sales),Marketing,10000,1014035,Full-time,Associate,157,Navi Mumbai, Maharashtra
+920,3966079272,Marastu®,LinkedIn Marketing Intern,Marketing,500,25005,On-site,Full-time,0,Ahmedabad, Gujarat
+921,3968067146,Ansira,Consultant,Marketing,10,1806,Hybrid,Full-time,0,Pune, Maharashtra
+922,3972859146,PhonePe,Manager - Ad Sales,Marketing,50,1340,Full-time,Full-time,164,Gurugram, Haryana
+923,3656595970,Mazenet Solution,Process Executive,Marketing,10001,321233,Full-time,Entry level,34,Gurgaon, Haryana
+924,3973070642,Expedify,Ecommerce Executive - Performance Marketing,Marketing,10001,429949,Full-time,Full-time,129,Gurgaon, Haryana
+925,3947651587,Indeed Inspiring Infotech,Digital Marketer,Marketing,5000,71563,Contract,Full-time,9,Pune, Maharashtra
+926,3962063621,TransUnion,Consultant - Data Analyst,Marketing,5000,29998,Full-time,Entry level,82,Mumbai, Maharashtra
+927,3911823931,RITES Ltd.,Technical Consultant,Marketing,50,3340,Full-time,Full-time,23,Guwahati, Assam
+928,3958937073,EXL,Executives,Marketing,50,3745,Full-time,Full-time,167,Pune, Maharashtra
+929,3977309551,Definitive Healthcare,Marketing Analyst,Marketing,1000,91024,Full-time,Associate,106,Bengaluru, Karnataka
+930,3964315666,AVASOFT,Business Development Executive,Marketing,5000,5403,On-site,Full-time,0,Chennai, Tamil Nadu
+931,3967650224,Bestla Group,Marketing and Business Developement Executive,Marketing,1000,134131,Full-time,Mid-Senior level,116,Pune, Maharashtra
+932,3968066520,YELLAWE,Associate - Brand Experiences,Marketing,500,64698,Full-time,Full-time,46,Mumbai, Maharashtra
+933,3955985942,Design Cafe,Paid Media Associate - Bangalore,Marketing,50,8240,Full-time,Full-time,126,Bengaluru, Karnataka
+934,3974989488,VaynerX,Account Manager,Marketing,1,237,Internship,Full-time,132,Gurugram, Haryana
+935,3974772249,Boston Institute of Analytics,Business Development Executive - Bangalore,Marketing,10001,963829,Full-time,Entry level,23,Bengaluru, Karnataka
+936,3960220607,Accenture in India,Measurement & Report Analyst,Marketing,500,101408,Full-time,Internship,136,Hyderabad, Telangana
+937,3627625207,M&C Saatchi Performance,Copywriter Intern,Marketing,10,177,Full-time,Entry level,0,Bengaluru, Karnataka
+938,3959745197,KidNurture,Digital Marketing Specialist,Marketing,500,45912,Internship,Full-time,116,Pune, Maharashtra
+939,3965148232,Barcode Entertainment : Strategic Brand Solutions,Influencer marketing Trainee,Marketing,500,16182,Full-time,Entry level,185,Mumbai, Maharashtra
+940,3949519218,TBWA\India,Account Executive,Marketing,200,18981,Full-time,Full-time,122,Bengaluru, Karnataka
+941,3852468460,Apna Mart,Catalog Associate,Marketing,200,2806,Full-time,Full-time,0,Bengaluru, Karnataka
+942,3955629147,Teknorix,Business Development Executive,Marketing,200,23192,Full-time,Mid-Senior level,127,Verna,Gujrat
+943,3968067921,Wipro,Collibra Consultant,Marketing,500,18009,On-site,Full-time,0,Pune, Maharashtra
+944,3962487951,EVitamin Business Consulting Pvt. Ltd,Business Development Associate,Marketing,5000,56272,Full-time,Entry level,63,Ujjain, Madhya Pradesh
+945,3977237255,Pattern®,CRM Assistant,Marketing,10,1900,Full-time,Full-time,19,Pune, Maharashtra
+946,3973910173,The Ideagator,Brand Strategist,Marketing,200,7226,Full-time,Full-time,66,Thane, Maharashtra
+947,3973465317,galleri5,Content Associate,Marketing,50,6678,Full-time,Full-time,155,Bengaluru, Karnataka
+948,3954397987,Narvee Technologies Pvt Ltd,Business Development Associate,Marketing,5000,90779,Full-time,Associate,193,Hyderabad, Telangana
+949,3953226228,Netscribes,Business Development Associate,Marketing,1000,60352,Full-time,Associate,108,Mumbai, Maharashtra
+950,3937278611,Interactive Avenues,Junior Copywriter- Sports,Marketing,5000,313530,Full-time,Associate,183,Mumbai, Maharashtra
+951,3978511732,Black Box,Marketing Specialist,Marketing,10001,2364941,Full-time,Entry level,2,Navi Mumbai, Maharashtra
+952,3973949463,Leadrat CRM,Business Development Executive,Marketing,50,4138,Full-time,Full-time,90,Bengaluru, Karnataka
+953,3973946431,Byte Digital Consulting Pty Ltd.,Digital Marketing Intern,Marketing,10,4624,Full-time,Full-time,145,Noida, Uttar Pradesh
+954,3973932447,Ecohodo,Digital Marketing Executive,Marketing,200,3456,Full-time,Full-time,12,New Delhi, Delhi
+955,3972328350,CloudFirst Technology®,Business Development Executive,Marketing,200,19207,Full-time,Entry level,131,Mumbai, Maharashtra
+956,3975204875,iThink Logistics,Marketing Executive (Social Media),Marketing,50,23513,Full-time,Associate,88,Goregaon, Maharashtra
+957,3968033336,grapes,Junior Copywriter,Marketing,50,9162,On-site,Full-time,0,Mumbai, Maharashtra
+958,3965799468,Wipro,Sr. Analyst,Marketing,50,4946,Full-time,Entry level,167,Gurugram, Haryana
+959,3968038197,iBCScorp,Digital Marketing Executive,Marketing,200,14233,Full-time,Executive,0,Bengaluru, Karnataka
+960,3927596873,TopGuru,Business Development Executive,Marketing,10001,4073921,Full-time,Full-time,155,Mumbai, Maharashtra
+961,3967436995,Pattern®,eCommerce Assistant,Marketing,50,2693,Full-time,Full-time,34,Pune, Maharashtra
+962,3924276465,Saras India Systems Private Limited,Internet Marketing Executive,Marketing,10001,33560005,Full-time,Full-time,43,Kondapur, Telangana
+963,3968031934,DataMites™,Business Development Executive,Marketing,50,3766,Full-time,Executive,0,Bengaluru, Karnataka
+964,3976889823,Flipkart,Executive - Campaign and Operations (Contract Role),Marketing,10001,31540165,Full-time,Full-time,91,Bengaluru, Karnataka
+965,3975349899,HTH GLOBAL NETWORK,Business Development Associate,Marketing,200,104595,Full-time,Executive,8,Mumbai, Maharashtra
+966,3954057476,iEnergizer,Customer Service Representative - L2,Marketing,200,50402,Full-time,Associate,165,Pune, Maharashtra
+967,3958298663,Google,"Advertising Solutions Architect, gTech",Marketing,50,21615,Full-time,Entry level,180,Bengaluru, Karnataka
+968,3967855501,Shrinkcom Software Pvt. Ltd.,Business Development Executive,Marketing,50,105797,Contract,Associate,107,Indore, Madhya Pradesh
+969,3954059215,Amazon,Brand Development Associate,Marketing,5000,914044,Full-time,Mid-Senior level,184,Bengaluru, Karnataka
+970,3972119561,Ditto Insurance,Performance Marketing Executive,Marketing,10,80,Full-time,Full-time,150,Bangalore Urban, Karnataka
+971,3965088191,Fulcro,Client Servicing Executive,Marketing,50,6375,Full-time,Full-time,103,Mumbai, Maharashtra
+972,3958388654,Scatter,Client Services Executive,Marketing,10001,4390860,Full-time,Full-time,162,Mumbai, Maharashtra
+973,3969788951,The Hiring Company,Campaign Associate,Marketing,50,243,Full-time,Full-time,37,Pune, Maharashtra
+974,3973953021,Meesho,Graphic Design Lead,Marketing,50,905,Full-time,Full-time,18,Bengaluru, Karnataka
+975,3940342302,Asteride Consulting,Sales And Marketing Specialist,Marketing,10001,832029,Full-time,Mid-Senior level,190,Hyderabad, Telangana
+976,3961142281,CloudRedux,Creative Content Writer (Internship),Marketing,1000,205836,Full-time,Full-time,171,Pune, Maharashtra
+977,3971986430,Goldman Sachs,Global Banking & Markets - Mergers & Acquisition - Analyst - Bengaluru,Marketing,200,35052,Full-time,Full-time,172,Bengaluru, Karnataka
+978,3964337847,Metro Digital Media,Marketing Executive,Marketing,10000,174452,Full-time,Full-time,3,Kochi, Kerala
+979,3975833118,DigiconiQ,Digital Marketing Specialist,Marketing,50,27093,Full-time,Full-time,44,Mysore, Karnataka
+980,3975811274,Kantar,Senior Research Executive,Marketing,10,28,Full-time,Full-time,25,Gurgaon, Haryana
+981,3975634542,apna,Digital Marketing Manager,Marketing,10001,614182,Full-time,Full-time,159,Thane, Maharashtra
+982,3975176524,Mosaic Wellness,Ecommerce Marketing Executive,Marketing,50,11790,Full-time,Full-time,123,Thane, Maharashtra
+983,3972144733,Huron,Growth Enablement Associate,Marketing,50,9273,Full-time,Full-time,143,Pune, Maharashtra
+984,3970130699,Propacity,Performance Marketing Manager,Marketing,500,63652,Full-time,Associate,82,Pune, Maharashtra
+985,3968821967,Socializare,Business Development Executive,Marketing,50,1898,Full-time,Full-time,106,Mumbai, Maharashtra
+986,3968062410,Macquarie Group,Market Risk Associate,Marketing,50,545,On-site,Full-time,0,Gurugram, Haryana
+987,3967630727,Superfone,Content Marketing Associate,Marketing,10,10344,Full-time,Full-time,176,Bengaluru, Karnataka
+988,3965458261,Puffy,Marketing Specialist (Get a 30% salary increase & Pay 0% Tax in Dubai),Marketing,50,3438,Full-time,Full-time,18,Gurugram, Haryana
+989,3965433208,HiVoco Content-Tech Studios,Media Sales Executive,Marketing,5000,114558,Full-time,Entry level,193,Vasant Vihar, Delhi
+990,3959370047,AKV TECHNOLOGIES,Business Development Executive,Marketing,5000,490542,Full-time,Mid-Senior level,139,Bengaluru, Karnataka
+991,3953507455,RAKESH TRADING PRIVATE LIMITED,Marketing Executive,Marketing,1000,59995,Full-time,Associate,164,Pune, Maharashtra
+992,3941288455,Bombay Media,Social Media Manager,Marketing,200,7920,Full-time,Full-time,0,Mumbai, Maharashtra
+993,3912865349,BRIK Partners,Business Development Executive,Marketing,50,725,Full-time,Entry level,0,Vadodara, Gujarat
+994,3812848921,Mygate,Content Associate,Marketing,200,2077,Full-time,Entry level,0,Bengaluru, Karnataka
+995,3979031987,Viacom18 Media Private Limited,"Senior Executive - Content Planning, JioCinema",Marketing,200,41665,Full-time,Executive,5,Mumbai, Maharashtra
+996,3978685187,Market Xcel,Research Analyst,Marketing,10000,373084,Full-time,Entry level,0,Delhi, Gujarat
+997,3974782037,Bombay Softwares,Bombay Softwares - Executive - Digital Marketing,Marketing,500,219324,Full-time,Entry level,70,Navi Mumbai, Maharashtra
+998,3971161741,Daksha Design,SEO Executive,Marketing,10,3087,Full-time,Full-time,119,Bengaluru, Karnataka
+,,,,Marketing,,,,,,,
