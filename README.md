@@ -116,7 +116,7 @@ Since LinkedIn requires a login to view job postings, you’ll need to provide y
 4. **Run the Scraper**:
    - Open the terminal, navigate to the project folder, and run the scraper:
    ```bash
-   python linkedin_scraper.py
+   python main.py
    ```
 
 5. **Data Processing**:
