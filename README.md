@@ -1,7 +1,7 @@
 # Linkedin Job Scrapping and Anlaysis
 <hr>
 
-## <img src="https://drive.google.com/uc?export=view&id=13EbUUWUTaVjLhDmiuuwRBgEnFpwyKxfL" width="25" height="25" alt="Description of GIF"> Project Overview
+## <img src="https://drive.google.com/uc?export=view&id=16KOiLeZdEy670bYptqA8B5k9UtaeoLwd" width="25" height="25" alt="Description of GIF"> Project Overview
 
 
 This project aims to analyze the job market by scraping job data from LinkedIn and visualizing key insights through a Power BI dashboard. The main objective is to help job seekers and industry professionals understand trends in the job market, such as demand by company, job level, and more. We used Python for data collection, cleaning, and preparation, and Power BI for creating an interactive dashboard to display the findings.
@@ -11,15 +11,15 @@ This project aims to analyze the job market by scraping job data from LinkedIn a
 
 <hr>
 
-## <img src="https://drive.google.com/uc?export=view&id=13EbUUWUTaVjLhDmiuuwRBgEnFpwyKxfL" width="25" height="25" alt="Description of GIF"> Project Steps
+## <img src="https://drive.google.com/uc?export=view&id=1EtIqvvK-IYFA9htPDJu47kwcVf60XuKP" width="25" height="25" alt="Description of GIF"> Project Steps
 
-### <img src="https://drive.google.com/uc?export=view&id=13EbUUWUTaVjLhDmiuuwRBgEnFpwyKxfL" width="25" height="25" alt="Description of GIF"> Data Collection
+### <img src="https://drive.google.com/uc?export=view&id=1p9qpryFQkPUFn13djYNJrJOlpi1rvtCJ" width="25" height="25" alt="Description of GIF"> Data Collection
 
 We used **web scraping** to collect job data directly from LinkedIn. The tools and libraries used for this process included:
 - **Selenium**: For automating the browsing and scraping process.
 - **Beautiful Soup**: For parsing HTML and extracting relevant information from the LinkedIn job postings.
 
-### <img src="https://drive.google.com/uc?export=view&id=13EbUUWUTaVjLhDmiuuwRBgEnFpwyKxfL" width="25" height="25" alt="Description of GIF"> Data Processing
+### <img src="https://drive.google.com/uc?export=view&id=1R11YSooCyOPnVjLYvioVBSc47o-npN0b" width="25" height="25" alt="Description of GIF"> Data Processing
 
 After collecting the raw data, we processed it in **Python** using **Pandas**:
 - **Data Cleaning**: Removed any duplicate or irrelevant entries and handled missing data to ensure accuracy.
@@ -27,14 +27,14 @@ After collecting the raw data, we processed it in **Python** using **Pandas**:
 
 The final dataset was saved as a **CSV file** for further analysis and dashboard creation.
 
-### <img src="https://drive.google.com/uc?export=view&id=13EbUUWUTaVjLhDmiuuwRBgEnFpwyKxfL" width="25" height="25" alt="Description of GIF"> Data Analysis and Dashboarding
+### <img src="https://drive.google.com/uc?export=view&id=1BK94A0JleQI2m6P0eBcAubjU855ukpvB" width="25" height="25" alt="Description of GIF"> Data Analysis and Dashboarding
 
 For the visualization part, we used **Power BI** along with **DAX (Data Analysis Expressions)** to create a comprehensive dashboard. The dashboard includes several key visuals to represent the job market trends, such as:
 - **Jobs by Company**: Showing the distribution of jobs posted by different companies.
 - **Jobs by Level**: Displaying the number of job openings at various experience levels.
 - **Main Overview**: Highlighting additional insights like top job titles, industries, and locations.
 
-### <img src="https://drive.google.com/uc?export=view&id=13EbUUWUTaVjLhDmiuuwRBgEnFpwyKxfL" width="25" height="25" alt="Description of GIF"> Key Insights from the Dashboard
+### <img src="https://drive.google.com/uc?export=view&id=10ZSDSNd06k-S0oadv6dl7AA6LXPP2_Hq" width="25" height="25" alt="Description of GIF"> Key Insights from the Dashboard
 
 Here are some insights we gathered from our analysis:
 
@@ -50,7 +50,7 @@ Here are some insights we gathered from our analysis:
 
   <hr>
 
-### <img src="https://drive.google.com/uc?export=view&id=13EbUUWUTaVjLhDmiuuwRBgEnFpwyKxfL" width="25" height="25" alt="Description of GIF"> Team Contribution
+### <img src="https://drive.google.com/uc?export=view&id=1AjJUHkHEUuYhcQwXpXy3kwq6cmZTXYoN" width="25" height="25" alt="Description of GIF"> Team Contribution
 
 This project was a team effort by a group of 5 members. Each member contributed to different parts of the project, from data scraping and cleaning to data analysis and visualization. The collaboration helped us complete the project efficiently and gain a better understanding of the LinkedIn job market.
 >  Contributors are -
@@ -63,7 +63,7 @@ This project was a team effort by a group of 5 members. Each member contributed 
 
   <hr>
 
-## <img src="https://drive.google.com/uc?export=view&id=13EbUUWUTaVjLhDmiuuwRBgEnFpwyKxfL" width="25" height="25" alt="Description of GIF"> Tools and Technologies Used
+## <img src="https://drive.google.com/uc?export=view&id=1mL24vG6A9Z6sUNrdeSVeHWK-4HAq7J2o" width="25" height="25" alt="Description of GIF"> Tools and Technologies Used
 
 - **Python**: For data scraping, cleaning, and transformation
   - **Selenium**: Web scraping
@@ -74,7 +74,7 @@ This project was a team effort by a group of 5 members. Each member contributed 
 
   <hr>
 
-## <img src="https://drive.google.com/uc?export=view&id=13EbUUWUTaVjLhDmiuuwRBgEnFpwyKxfL" width="25" height="25" alt="Description of GIF"> Project Objective
+## <img src="https://drive.google.com/uc?export=view&id=1yb8f_Y22nnwaLNJfjQV2QBm_T6LWWu00" width="25" height="25" alt="Description of GIF"> Project Objective
 
 The main goal of this project was to **analyze the job market on LinkedIn** to uncover insights into:
 - Which companies are actively hiring
@@ -85,7 +85,7 @@ These insights can assist job seekers in targeting companies and roles that matc
 
 <hr>
 
-## <img src="https://drive.google.com/uc?export=view&id=13EbUUWUTaVjLhDmiuuwRBgEnFpwyKxfL" width="25" height="25" alt="Description of GIF"> Installation and Configuration
+## <img src="https://drive.google.com/uc?export=view&id=1ASH-4O9g4LNAslRIhP64fSBKty8IAwRH" width="25" height="25" alt="Description of GIF"> Installation and Configuration
 
 ### Prerequisites
 
@@ -129,7 +129,7 @@ Since LinkedIn requires a login to view job postings, you’ll need to provide y
 
 <hr>
 
-## <img src="https://drive.google.com/uc?export=view&id=13EbUUWUTaVjLhDmiuuwRBgEnFpwyKxfL" width="25" height="25" alt="Description of GIF"> How to Use This Project
+## <img src="https://drive.google.com/uc?export=view&id=1hiUT72yLMyFkKzAriTi5o0cqOULp8CoK" width="25" height="25" alt="Description of GIF"> How to Use This Project
 
 1. **Data Collection**: Use the provided Python scripts with Selenium and Beautiful Soup to scrape LinkedIn job data.
 2. **Data Cleaning and Transformation**: Process the data using the provided cleaning and transformation functions in Python.
@@ -137,7 +137,7 @@ Since LinkedIn requires a login to view job postings, you’ll need to provide y
 
 <hr>
 
-## <img src="https://drive.google.com/uc?export=view&id=13EbUUWUTaVjLhDmiuuwRBgEnFpwyKxfL" width="25" height="25" alt="Description of GIF"> Conclusion
+## <img src="https://drive.google.com/uc?export=view&id=1GgRc1Q4db_GJEIg3dhYi7WQocXVEJSVT" width="25" height="25" alt="Description of GIF"> Conclusion
 
 This LinkedIn Job Market Analysis Dashboard provides an overview of current job market trends, focusing on company hiring patterns, job levels, and more. By leveraging data scraping, data processing, and visualization tools, we created a user-friendly and informative dashboard to support job seekers and HR professionals in making data-driven decisions.
 
